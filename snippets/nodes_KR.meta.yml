@@ -87,6 +87,13 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560
+- cipher: aes-256-cfb
+  name: KR_speednode_0030
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 154.90.62.168
+  type: ss
+  udp: true
 - name: 'KR_speednode_0031 #1'
   network: ws
   port: 18788
