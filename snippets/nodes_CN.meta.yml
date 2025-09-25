@@ -5,6 +5,33 @@ proxies:
   server: blog.811520.xyz
   servername: vless4-8y8.pages.dev
   skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: 2c4d3d64-9742-4d2e-9f6f-a1ecabd22b27
+  ws-opts:
+    headers:
+      Host: vless4-8y8.pages.dev
+    path: /?ed=2560security=tls
+- alterId: 0
+  cipher: auto
+  name: github.com/freefq - 广东省移动 7
+  network: ws
+  port: '20401'
+  server: data-us-v1.shwjfkw.cn
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: b1478e24-4916-3abe-8f17-15931012ecbe
+  ws-opts:
+    headers:
+      Host: data-us-v1.shwjfkw.cn
+    path: /debian
+- name: 'CN_speednode_0006 #1'
+  network: ws
+  port: 443
+  server: blog.811520.xyz
+  servername: vless4-8y8.pages.dev
+  skip-cert-verify: false
   tls: true
   type: vless
   udp: true

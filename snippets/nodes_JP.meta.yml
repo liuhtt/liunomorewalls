@@ -1,5 +1,5 @@
 proxies:
-- name: 'Channel id: @ShadowProxy66🇯🇵'
+- name: 'Channel id: @ShadowProxy66🇯🇵 #1'
   password: fabd2b79-693a-4a37-827c-6d299e8813b1
   port: 443
   server: 133.18.163.202
@@ -7,13 +7,67 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
+- client-fingerprint: chrome
+  name: '日本3|@ripaojiedian #1'
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 1331
+  server: 160.16.231.103
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- client-fingerprint: chrome
+  name: '日本4|@ripaojiedian #1'
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 3160
+  server: 160.16.68.250
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: '日本v2|@ripaojiedian #1'
+  network: kcp
+  port: '5106'
+  server: 47.74.14.30
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 1cc84891-1657-4f71-97d0-287df565820e
+- name: JP_speednode_0026
+  network: ws
+  port: 45681
+  server: 150.230.5.34
+  servername: kejiland.freewarp.eu.org
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: b65f4df7-f6af-42b2-877a-cef33f21675e
+  ws-opts:
+    headers:
+      Host: kejiland.freewarp.eu.org
+    path: /snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome
+- name: JP_speednode_0027
+  network: ws
+  port: 1443
+  server: 140.238.62.82
+  servername: kejiland.freewarp.eu.org
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: b65f4df7-f6af-42b2-877a-cef33f21675e
+  ws-opts:
+    headers:
+      Host: kejiland.freewarp.eu.org
+    path: /snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls
 - cipher: rc4-md5
   client-fingerprint: chrome
-  name: 🇯🇵 日本|@ripaojiedian
+  name: '🇯🇵 日本|@ripaojiedian #1'
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202509121565513-HpWeCj5Hza.download.microsoft.com
+    host: 202509242154338-Zr8tJCX9sq.download.microsoft.com
     mode: http
   port: 8766
   server: cn01.efan8867801.xyz
@@ -21,7 +75,7 @@ proxies:
   type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇯🇵 日本2|@ripaojiedian
+  name: '🇯🇵 日本2|@ripaojiedian #1'
   password: 8808e9f11454
   plugin: v2ray-plugin
   plugin-opts:
@@ -36,35 +90,7 @@ proxies:
   tfo: false
   type: ss
 - client-fingerprint: chrome
-  name: 日本3|@ripaojiedian
-  network: tcp
-  password: 253bc477d4e43c209f2d427272968280
-  port: 1331
-  server: 160.16.231.103
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- client-fingerprint: chrome
-  name: 日本4|@ripaojiedian
-  network: tcp
-  password: 253bc477d4e43c209f2d427272968280
-  port: 3160
-  server: 160.16.68.250
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- alterId: 0
-  cipher: auto
-  name: 日本v2|@ripaojiedian
-  network: kcp
-  port: '5106'
-  server: 47.74.14.30
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 1cc84891-1657-4f71-97d0-287df565820e
-- client-fingerprint: chrome
-  name: JP_speednode_0026
+  name: 'JP_speednode_0026 #1'
   network: ws
   port: 45681
   server: 150.230.5.34
@@ -78,7 +104,7 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560
-- name: JP_speednode_0027
+- name: 'JP_speednode_0027 #1'
   network: ws
   port: 1443
   server: 140.238.62.82
