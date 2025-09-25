@@ -626,18 +626,14 @@ proxies:
     path: /oooo
 - alterId: 0
   cipher: auto
-  name: 香港3|@ripaojiedian
-  network: ws
-  port: '41311'
-  server: xiaoniu.v.jsqcdn.bid
+  name: '香港3|@ripaojiedian #1'
+  network: tcp
+  port: '44601'
+  server: 43.247.135.86
   servername: ''
   tls: false
   type: vmess
-  uuid: bd64d2a3-76a1-407f-af7f-bdcdcb78d21e
-  ws-opts:
-    headers:
-      Host: img14.360buyimg.com
-    path: /obj
+  uuid: 3bff49e6-b2e2-44ce-801f-06eab407e8bd
 - name: '香港4|@ripaojiedian #1'
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
@@ -646,16 +642,6 @@ proxies:
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- alterId: 0
-  cipher: auto
-  name: 香港5|@ripaojiedian
-  network: tcp
-  port: '57586'
-  server: 45.89.233.236
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 862d48d2-115b-432d-8115-f5aaa1a4b186
 - name: '香港6|@ripaojiedian #1'
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
@@ -664,15 +650,6 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- alterId: 0
-  cipher: auto
-  name: 🇭🇰 香港HK|@ripaojiedian
-  network: http
-  port: 24939
-  server: 38.147.188.112
-  tls: false
-  type: vmess
-  uuid: 928408df-3114-4b57-b852-f8d120ce056c
 - name: '台湾|@ripaojiedian #1'
   network: tcp
   password: 90f45c05-917f-3b1b-a582-899cfe4cf7b3
@@ -755,16 +732,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 93c35277-ee3f-4ab2-9d9e-462b97a8795f
-- alterId: 0
-  cipher: auto
-  name: 香港HK|@ripaojiedian
-  network: tcp
-  port: '24939'
-  server: 38.147.188.112
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 928408df-3114-4b57-b852-f8d120ce056c
 - alterId: 0
   cipher: auto
   name: '日本v2|@ripaojiedian #1'
@@ -923,7 +890,7 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: 🇭🇰 香港3|@ripaojiedian
+  name: '🇭🇰 香港3|@ripaojiedian #1'
   port: 44601
   server: 43.247.135.86
   skip-cert-verify: false
@@ -982,16 +949,6 @@ proxies:
   server: 103.186.155.28
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
-  name: '香港3|@ripaojiedian #1'
-  network: tcp
-  port: '44601'
-  server: 43.247.135.86
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 3bff49e6-b2e2-44ce-801f-06eab407e8bd
 - cipher: aes-256-cfb
   name: KR_speednode_0030
   password: f8f7aCzcPKbsF8p3
