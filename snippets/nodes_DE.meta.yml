@@ -1,5 +1,5 @@
 proxies:
-- name: '🇩🇪@FreakConfig #1'
+- name: 🇩🇪@FreakConfig
   password: 20050105zhu
   port: 51541
   server: 204.44.110.129
@@ -7,7 +7,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '🇩🇪@EXPRESSVPN_420 -> همه اپرات... #1'
+- name: 🇩🇪@EXPRESSVPN_420 -> همه اپرات...
   password: 3QlSMKyqLp
   port: 443
   server: android.yas-nowin.ir
@@ -15,14 +15,14 @@ proxies:
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
-- name: 'DE-telegram-@ISVvpn  🌐 لوکیشن:... #1'
+- name: DE-telegram-@ISVvpn  🌐 لوکیشن:...
   password: 70197404-7b40-45e4-bb9c-8bc8995012ae
   port: 24568
   server: fra-nb-01.linlujs.pw
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: 'DE_speednode_0010 #1'
+- name: DE_speednode_0007
   network: ws
   port: 2053
   server: 89.169.53.131
@@ -35,9 +35,9 @@ proxies:
   ws-opts:
     headers:
       Host: kejiland.freewarp.eu.org
-    path: /snippets/ip=proxyip.fxxk.dedyn.io:443security=tls
+    path: /snippets/ip=proxyip.fxxk.dedyn.io:443
 - client-fingerprint: chrome
-  name: 'DE_speednode_0008 #1'
+  name: DE_speednode_0008
   port: 6666
   reality-opts:
     public-key: S_2bepGaT7EHeH5DdyEgio421RTgrAvvOOQiaq8zV0g
@@ -51,7 +51,7 @@ proxies:
   uuid: 0abf9050-c7be-464d-80af-24094c2b97de
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: 'DE_speednode_0009 #1'
+  name: DE_speednode_0009
   port: 223
   reality-opts:
     public-key: 2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U
@@ -69,15 +69,16 @@ proxies:
   server: 89.169.53.131
   servername: kejiland.freewarp.eu.org
   skip-cert-verify: true
-  tls: false
+  tls: true
   type: vless
+  udp: true
   uuid: 01996549-6892-dbf0-0453-f700236936bd
   ws-opts:
     headers:
       Host: kejiland.freewarp.eu.org
-    path: /snippets/ip=proxyip.fxxk.dedyn.io:443security=tlssecurity=tls
+    path: /snippets/ip=proxyip.fxxk.dedyn.io:443security=tls
 - client-fingerprint: chrome
-  name: 'DE_speednode_0011 #1'
+  name: DE_speednode_0011
   port: 443
   reality-opts:
     public-key: AdkdFL1GILtsxWSOcwdB-budJOiw2cXac8eIPxYIokw
@@ -88,17 +89,3 @@ proxies:
   type: vless
   udp: true
   uuid: 387d6d9a-5594-4b2a-a60d-5b2cb1f57638
-- name: 'DE_speednode_0007 #1'
-  network: ws
-  port: 2053
-  server: 89.169.53.131
-  servername: kejiland.freewarp.eu.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 01996549-6892-dbf0-0453-f700236936bd
-  ws-opts:
-    headers:
-      Host: kejiland.freewarp.eu.org
-    path: /snippets/ip=proxyip.fxxk.dedyn.io:443
