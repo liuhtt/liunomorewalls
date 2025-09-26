@@ -1,28 +1,7 @@
 proxies:
-- name: GB_speednode_0011
-  port: 30849
-  server: lii.bliscorp.org
-  servername: JouRNaloFbIgdATA.SpRinGeropEn.coM.
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  uuid: dca511f0-f98c-45d3-a0ff-1ba61c651374
-- name: GB_speednode_0012
-  network: ws
-  port: 8080
-  server: 159.65.94.176
-  servername: kejiland.freewarp.eu.org
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  uuid: b65f4df7-f6af-42b2-877a-cef33f21675e
-  ws-opts:
-    headers:
-      Host: kejiland.freewarp.eu.org
-    path: /snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: GB_speednode_0014
+  name: 'GB_speednode_0014 #1'
   port: 8443
   reality-opts:
     public-key: ZMtlGCYlW4xf2_g1ruTqLEw1H57ggWXrb6aAbh029lo
@@ -35,6 +14,19 @@ proxies:
   udp: true
   uuid: d2a11ee4-7ede-4e7f-a001-a23e9bb44ff2
 - name: GB_speednode_0015
+  network: ws
+  port: 8080
+  server: 159.65.94.176
+  servername: kejiland.freewarp.eu.org
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: b65f4df7-f6af-42b2-877a-cef33f21675e
+  ws-opts:
+    headers:
+      Host: kejiland.freewarp.eu.org
+    path: /snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls
+- name: 'GB_speednode_0015 #1'
   network: ws
   port: 8080
   server: 159.65.94.176

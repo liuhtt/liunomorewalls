@@ -750,7 +750,15 @@ proxies:
   tls: false
   type: vmess
   uuid: 1cc84891-1657-4f71-97d0-287df565820e
-- name: CN_speednode_0005
+- name: 'AU_speednode_0002 #1'
+  password: installshield
+  port: 8443
+  server: 176.97.68.153
+  skip-cert-verify: true
+  sni: 176.97.68.153
+  type: trojan
+  udp: true
+- name: 'CN_speednode_0005 #1'
   password: 2fd0d127-266d-4d0b-b453-f94659a132fc
   port: 12000
   server: 106.75.134.1
@@ -946,14 +954,6 @@ proxies:
   server: 103.186.155.28
   tfo: false
   type: ss
-- name: 'AU_speednode_0002 #1'
-  password: installshield
-  port: 8443
-  server: 176.97.68.153
-  skip-cert-verify: true
-  sni: 176.97.68.153
-  type: trojan
-  udp: true
 - alterId: 2
   cipher: auto
   name: CN_speednode_0006

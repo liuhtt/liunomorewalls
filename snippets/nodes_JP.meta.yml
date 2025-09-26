@@ -52,7 +52,20 @@ proxies:
   tls: false
   type: vmess
   uuid: 1cc84891-1657-4f71-97d0-287df565820e
-- name: JP_speednode_0015
+- name: JP_speednode_0022
+  network: ws
+  port: 51037
+  server: 141.147.161.249
+  servername: kejiland.freewarp.eu.org
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: b65f4df7-f6af-42b2-877a-cef33f21675e
+  ws-opts:
+    headers:
+      Host: kejiland.freewarp.eu.org
+    path: /snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls
+- name: JP_speednode_0023
   network: ws
   port: 43257
   server: 132.226.8.109
@@ -77,7 +90,7 @@ proxies:
   server: cn01.efan8867801.xyz
   tfo: false
   type: ss
-- name: JP_speednode_0022
+- name: 'JP_speednode_0022 #1'
   network: ws
   port: 51037
   server: 141.147.161.249
@@ -91,7 +104,7 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560
-- name: JP_speednode_0023
+- name: 'JP_speednode_0023 #1'
   network: ws
   port: 43257
   server: 132.226.8.109
