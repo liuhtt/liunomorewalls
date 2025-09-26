@@ -704,6 +704,30 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
+- name: 'Channel id: @vpnserverrr🇺🇸'
+  password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
+  port: 2056
+  server: lsj3.mangshe.xyz
+  skip-cert-verify: true
+  sni: lsj3.mangshe.xyz
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @vpnserverrr🇺🇸 #1'
+  password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
+  port: 2056
+  server: mg1.mangshe.xyz
+  skip-cert-verify: true
+  sni: mg1.mangshe.xyz
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @vpnserverrr🇸🇬'
+  password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
+  port: 2060
+  server: xjp2.mangshe.xyz
+  skip-cert-verify: true
+  sni: xjp2.mangshe.xyz
+  tls: false
+  type: hysteria2
 - name: '💎کانفیگ های بیشتر در چنل تلگرا... #3'
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
@@ -805,14 +829,6 @@ proxies:
   port: 25684
   server: us-nb-01.linlujs.pw
   skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: United States_Los Angeles_hy2_...
-  password: dongtaiwang.com
-  port: 35205
-  server: 104.168.10.176
-  skip-cert-verify: true
-  sni: apple.com
   tls: false
   type: hysteria2
 - alterId: 2
