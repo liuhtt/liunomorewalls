@@ -11,7 +11,7 @@ proxies:
   sni: apple.com
   type: hysteria
   up: 11 Mbps
-- name: FR_speednode_0009
+- name: 'FR_speednode_0010 #1'
   password: installshield
   port: 8443
   server: 23.162.152.30
@@ -19,6 +19,47 @@ proxies:
   type: trojan
   udp: true
 - name: FR_speednode_0010
+  network: ws
+  port: 2096
+  server: 141.11.203.32
+  servername: kejiland.freewarp.eu.org
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: b65f4df7-f6af-42b2-877a-cef33f21675e
+  ws-opts:
+    headers:
+      Host: kejiland.freewarp.eu.org
+    path: /snippetssecurity=tls
+- name: FR_speednode_0011
+  network: ws
+  port: 2053
+  server: 89.168.43.31
+  servername: kejiland.freewarp.eu.org
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: b65f4df7-f6af-42b2-877a-cef33f21675e
+  ws-opts:
+    headers:
+      Host: kejiland.freewarp.eu.org
+    path: /snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560
+- name: FR_speednode_0012
+  network: ws
+  port: 2053
+  server: 89.168.43.31
+  servername: kejiland.freewarp.eu.org
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 01996549-6892-dbf0-0453-f700236936bd
+  ws-opts:
+    headers:
+      Host: kejiland.freewarp.eu.org
+    path: /snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560
+- name: FR_speednode_0013
   network: ws
   port: 2096
   server: 141.11.203.32

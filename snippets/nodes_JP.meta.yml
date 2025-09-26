@@ -1,5 +1,5 @@
 proxies:
-- name: 'Channel id: @ShadowProxy66🇯🇵'
+- name: 'Channel id: @ShadowProxy66🇯🇵 #1'
   password: fabd2b79-693a-4a37-827c-6d299e8813b1
   port: 443
   server: 133.18.163.202
@@ -7,20 +7,8 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
-- cipher: rc4-md5
-  client-fingerprint: chrome
-  name: 🇯🇵 日本|@ripaojiedian
-  password: efanccyun
-  plugin: obfs
-  plugin-opts:
-    host: 202509242154338-Zr8tJCX9sq.download.microsoft.com
-    mode: http
-  port: 8766
-  server: cn01.efan8867801.xyz
-  tfo: false
-  type: ss
 - client-fingerprint: chrome
-  name: 日本2|@ripaojiedian
+  name: '日本2|@ripaojiedian #1'
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 3160
@@ -29,7 +17,7 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - client-fingerprint: chrome
-  name: 日本3|@ripaojiedian
+  name: '日本3|@ripaojiedian #1'
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 1331
@@ -40,7 +28,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 日本4|@ripaojiedian
+  name: '日本4|@ripaojiedian #1'
   network: ws
   port: '41315'
   server: a.lyazzz.online
@@ -56,7 +44,7 @@ proxies:
     path: /obj
 - alterId: 0
   cipher: auto
-  name: 日本v2|@ripaojiedian
+  name: '日本v2|@ripaojiedian #1'
   network: kcp
   port: '5106'
   server: 47.74.14.30
@@ -65,6 +53,45 @@ proxies:
   type: vmess
   uuid: 1cc84891-1657-4f71-97d0-287df565820e
 - name: JP_speednode_0015
+  network: ws
+  port: 43257
+  server: 132.226.8.109
+  servername: kejiland.freewarp.eu.org
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: 01996549-6892-dbf0-0453-f700236936bd
+  ws-opts:
+    headers:
+      Host: kejiland.freewarp.eu.org
+    path: /snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: '🇯🇵 日本|@ripaojiedian #1'
+  password: efanccyun
+  plugin: obfs
+  plugin-opts:
+    host: 202509242154338-Zr8tJCX9sq.download.microsoft.com
+    mode: http
+  port: 8766
+  server: cn01.efan8867801.xyz
+  tfo: false
+  type: ss
+- name: JP_speednode_0022
+  network: ws
+  port: 51037
+  server: 141.147.161.249
+  servername: kejiland.freewarp.eu.org
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: b65f4df7-f6af-42b2-877a-cef33f21675e
+  ws-opts:
+    headers:
+      Host: kejiland.freewarp.eu.org
+    path: /snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560
+- name: JP_speednode_0023
   network: ws
   port: 43257
   server: 132.226.8.109
