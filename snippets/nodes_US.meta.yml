@@ -1,6 +1,5 @@
 proxies:
-- fast-open: true
-  name: 'United States_Los Angeles_hy2_... #4'
+- name: United States_Los Angeles_hy2_...
   password: dongtaiwang.com
   port: 35205
   server: 104.168.10.176
