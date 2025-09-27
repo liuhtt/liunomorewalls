@@ -1,5 +1,5 @@
 proxies:
-- name: RU_speednode_0029
+- name: RU_speednode_0028
   network: ws
   port: 8443
   server: 81.200.158.206
@@ -12,7 +12,7 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls
-- name: RU_speednode_0030
+- name: RU_speednode_0029
   network: ws
   port: 2053
   server: 89.169.160.84
@@ -24,8 +24,8 @@ proxies:
   ws-opts:
     headers:
       Host: kejiland.freewarp.eu.org
-    path: /snippets/ip=proxyip.fxxk.dedyn.io:443security=tlssecurity=tls
-- name: RU_speednode_0028
+    path: /snippets/ip=proxyip.fxxk.dedyn.io:443security=tls
+- name: 'RU_speednode_0028 #1'
   network: ws
   port: 8443
   server: 81.200.158.206
