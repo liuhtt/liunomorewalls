@@ -42,20 +42,7 @@ proxies:
     headers:
       Host: baidu.com
     path: /oooo
-- name: SG_speednode_0030
-  network: ws
-  port: 2096
-  server: 92.243.75.32
-  servername: kejiland.freewarp.eu.org
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  uuid: b65f4df7-f6af-42b2-877a-cef33f21675e
-  ws-opts:
-    headers:
-      Host: kejiland.freewarp.eu.org
-    path: /snippetssecurity=tlssecurity=tls
-- name: SG_speednode_0020
+- name: 'SG_speednode_0020 #1'
   network: ws
   port: 2096
   server: 92.243.75.32
@@ -69,7 +56,20 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippetssecurity=tls
-- name: SG_speednode_0019
+- name: SG_speednode_0020
+  network: ws
+  port: 2096
+  server: 92.243.75.32
+  servername: kejiland.freewarp.eu.org
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: b65f4df7-f6af-42b2-877a-cef33f21675e
+  ws-opts:
+    headers:
+      Host: kejiland.freewarp.eu.org
+    path: /snippetssecurity=tlssecurity=tls
+- name: 'SG_speednode_0019 #1'
   network: ws
   port: 2096
   server: 92.243.75.32

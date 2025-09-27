@@ -1,5 +1,5 @@
 proxies:
-- name: KR_speednode_0025
+- name: KR_speednode_0012
   network: ws
   port: 8443
   server: 158.180.82.203
@@ -12,7 +12,7 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls
-- name: KR_speednode_0012
+- name: 'KR_speednode_0012 #1'
   network: ws
   port: 8443
   server: 158.180.82.203

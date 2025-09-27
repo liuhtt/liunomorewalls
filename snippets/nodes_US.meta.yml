@@ -33,7 +33,7 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: US_speednode_0038
+- name: US_speednode_0021
   network: ws
   port: 443
   server: 67.226.221.102
@@ -46,7 +46,35 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls
+- alpn:
+  - h3
+  name: US_speednode_0022
+  network: ws
+  port: 2083
+  server: 162.159.142.252
+  servername: fei.634676.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: d2965257-0536-4811-a0d5-cdce54e90326
+  ws-opts:
+    headers:
+      Host: fei.634676.xyz
+    path: /?ed=2560fp=random
 - name: US_speednode_0024
+  network: ws
+  port: 2096
+  server: 141.193.27.32
+  servername: kejiland.freewarp.eu.org
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: b65f4df7-f6af-42b2-877a-cef33f21675e
+  ws-opts:
+    headers:
+      Host: kejiland.freewarp.eu.org
+    path: /snippetssecurity=tlssecurity=tls
+- name: 'US_speednode_0024 #1'
   network: ws
   port: 2096
   server: 141.193.27.32
@@ -66,6 +94,19 @@ proxies:
   server: 67.226.221.102
   servername: kejiland.freewarp.eu.org
   skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: 01996549-6892-dbf0-0453-f700236936bd
+  ws-opts:
+    headers:
+      Host: kejiland.freewarp.eu.org
+    path: /snippets/ip=proxyip.fxxk.dedyn.io:443security=tlssecurity=tls
+- name: 'US_speednode_0026 #1'
+  network: ws
+  port: 443
+  server: 67.226.221.102
+  servername: kejiland.freewarp.eu.org
+  skip-cert-verify: false
   tls: true
   type: vless
   udp: true
@@ -74,20 +115,33 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippets/ip=proxyip.fxxk.dedyn.io:443security=tls
-- name: US_speednode_0042
+- name: US_speednode_0028
   network: ws
-  port: 443
-  server: 67.226.221.102
+  port: 2096
+  server: 166.62.111.32
   servername: kejiland.freewarp.eu.org
-  skip-cert-verify: false
+  skip-cert-verify: true
   tls: false
   type: vless
-  uuid: 01996549-6892-dbf0-0453-f700236936bd
+  uuid: b65f4df7-f6af-42b2-877a-cef33f21675e
   ws-opts:
     headers:
       Host: kejiland.freewarp.eu.org
-    path: /snippets/ip=proxyip.fxxk.dedyn.io:443security=tlssecurity=tls
-- name: US_speednode_0036
+    path: /snippetssecurity=tls
+- name: US_speednode_0030
+  network: ws
+  port: 2096
+  server: 204.93.210.32
+  servername: kejiland.freewarp.eu.org
+  skip-cert-verify: true
+  tls: false
+  type: vless
+  uuid: b65f4df7-f6af-42b2-877a-cef33f21675e
+  ws-opts:
+    headers:
+      Host: kejiland.freewarp.eu.org
+    path: /snippetssecurity=tlssecurity=tls
+- name: 'US_speednode_0036 #1'
   network: ws
   port: 2096
   server: 160.79.105.32
@@ -101,20 +155,7 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippetssecurity=tls
-- name: US_speednode_0044
-  network: ws
-  port: 2096
-  server: 195.13.45.32
-  servername: kejiland.freewarp.eu.org
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  uuid: b65f4df7-f6af-42b2-877a-cef33f21675e
-  ws-opts:
-    headers:
-      Host: kejiland.freewarp.eu.org
-    path: /snippetssecurity=tls
-- name: US_speednode_0045
+- name: US_speednode_0032
   network: ws
   port: 2096
   server: 199.34.229.32
@@ -127,7 +168,7 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippetsfp=chrome
-- name: US_speednode_0046
+- name: US_speednode_0033
   network: ws
   port: 2096
   server: 195.13.45.32
@@ -139,8 +180,21 @@ proxies:
   ws-opts:
     headers:
       Host: kejiland.freewarp.eu.org
-    path: /snippetssecurity=tlssecurity=tls
-- name: US_speednode_0030
+    path: /snippetssecurity=tls
+- name: US_speednode_0034
+  network: ws
+  port: 2096
+  server: 159.112.235.32
+  servername: kejiland.freewarp.eu.org
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: b65f4df7-f6af-42b2-877a-cef33f21675e
+  ws-opts:
+    headers:
+      Host: kejiland.freewarp.eu.org
+    path: /snippetssecurity=tls
+- name: 'US_speednode_0030 #1'
   network: ws
   port: 2096
   server: 204.93.210.32
@@ -154,7 +208,7 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippetssecurity=tls
-- name: US_speednode_0048
+- name: US_speednode_0036
   network: ws
   port: 2096
   server: 160.79.105.32
@@ -167,10 +221,10 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippetssecurity=tlssecurity=tls
-- name: US_speednode_0049
+- name: US_speednode_0037
   network: ws
   port: 2096
-  server: 141.193.27.32
+  server: 192.0.54.32
   servername: kejiland.freewarp.eu.org
   skip-cert-verify: false
   tls: false
@@ -179,7 +233,7 @@ proxies:
   ws-opts:
     headers:
       Host: kejiland.freewarp.eu.org
-    path: /snippetssecurity=tlssecurity=tls
+    path: /snippetssecurity=tls
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 美国CloudFla...
@@ -248,7 +302,7 @@ proxies:
     headers:
       Host: server32.beheshtbaneh.com
     path: /
-- name: US_speednode_0021
+- name: 'US_speednode_0021 #1'
   network: ws
   port: 443
   server: 67.226.221.102
@@ -265,7 +319,7 @@ proxies:
 - alpn:
   - h3
   client-fingerprint: random
-  name: US_speednode_0022
+  name: 'US_speednode_0022 #1'
   network: ws
   port: 2083
   server: 162.159.142.252
@@ -279,7 +333,7 @@ proxies:
     headers:
       Host: fei.634676.xyz
     path: /?ed=2560
-- name: US_speednode_0025
+- name: 'US_speednode_0025 #1'
   network: ws
   port: 2096
   server: 141.193.27.32
@@ -293,7 +347,7 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippets
-- name: US_speednode_0027
+- name: 'US_speednode_0027 #1'
   network: ws
   port: 443
   server: 67.226.221.102
@@ -307,7 +361,7 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippets/ip=proxyip.fxxk.dedyn.io:443
-- name: US_speednode_0028
+- name: 'US_speednode_0028 #1'
   network: ws
   port: 2096
   server: 166.62.111.32
@@ -321,7 +375,7 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippets
-- name: US_speednode_0031
+- name: 'US_speednode_0031 #1'
   network: ws
   port: 2096
   server: 160.79.105.32
@@ -336,7 +390,7 @@ proxies:
       Host: kejiland.freewarp.eu.org
     path: /snippets
 - client-fingerprint: chrome
-  name: US_speednode_0032
+  name: 'US_speednode_0032 #1'
   network: ws
   port: 2096
   server: 199.34.229.32
@@ -350,7 +404,7 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippets
-- name: US_speednode_0033
+- name: 'US_speednode_0033 #1'
   network: ws
   port: 2096
   server: 195.13.45.32
@@ -364,7 +418,7 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippets
-- name: US_speednode_0034
+- name: 'US_speednode_0034 #1'
   network: ws
   port: 2096
   server: 159.112.235.32
@@ -378,7 +432,7 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippets
-- name: US_speednode_0035
+- name: 'US_speednode_0035 #1'
   network: ws
   port: 2096
   server: 204.93.210.32
@@ -392,7 +446,7 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippets
-- name: US_speednode_0037
+- name: 'US_speednode_0037 #1'
   network: ws
   port: 2096
   server: 192.0.54.32
