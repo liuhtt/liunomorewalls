@@ -55,7 +55,7 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippetssecurity=tlssecurity=tls
-- name: 'SG_speednode_0030 #1'
+- name: SG_speednode_0020
   network: ws
   port: 2096
   server: 92.243.75.32
@@ -69,7 +69,7 @@ proxies:
     headers:
       Host: kejiland.freewarp.eu.org
     path: /snippetssecurity=tls
-- name: 'SG_speednode_0031 #1'
+- name: SG_speednode_0019
   network: ws
   port: 2096
   server: 92.243.75.32
