@@ -1,16 +1,12 @@
 proxies:
-- client-fingerprint: chrome
-  name: '日本2|@ripaojiedian #1'
-  network: tcp
+- name: 日本2|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 1331
   server: 153.121.39.240
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- client-fingerprint: chrome
-  name: '日本3|@ripaojiedian #1'
-  network: tcp
+- name: 日本3|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 1331
   server: 160.16.231.103
@@ -27,15 +23,42 @@ proxies:
   tls: false
   type: vmess
   uuid: 1cc84891-1657-4f71-97d0-287df565820e
-- cipher: rc4-md5
+- alterId: 0
+  cipher: auto
   client-fingerprint: chrome
   name: '🇯🇵 日本|@ripaojiedian #1'
-  password: efanccyun
-  plugin: obfs
-  plugin-opts:
-    host: 202509242154338-Zr8tJCX9sq.download.microsoft.com
-    mode: http
-  port: 8766
-  server: cn01.efan8867801.xyz
+  port: 25980
+  server: 45.159.51.189
+  skip-cert-verify: false
   tfo: false
-  type: ss
+  tls: false
+  type: vmess
+  uuid: 8e2c0dcf-b621-4513-8781-4c686f5d5b6d
+- client-fingerprint: chrome
+  name: '日本2|@ripaojiedian #1'
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 3160
+  server: 160.16.231.103
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- client-fingerprint: chrome
+  name: '日本3|@ripaojiedian #1'
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 3160
+  server: 160.16.89.176
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 日本|@ripaojiedian
+  network: tcp
+  port: '25980'
+  server: 45.159.51.189
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 8e2c0dcf-b621-4513-8781-4c686f5d5b6d
