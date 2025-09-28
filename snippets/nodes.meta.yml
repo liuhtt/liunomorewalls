@@ -642,7 +642,7 @@ proxies:
   sni: de1.jueduibupao.top
   tls: false
   type: hysteria2
-- name: 🇩🇪@FreakConfig
+- name: '🇩🇪@FreakConfig #2'
   password: 20050105zhu
   port: 51541
   server: 204.44.110.129
@@ -650,7 +650,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: r♡ya
+- name: 'r♡ya #5'
   password: 2b67ONZROv+fRVMxB94BSw==
   port: 443
   server: 5.231.70.79
@@ -658,7 +658,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 🇩🇪@EXPRESSVPN_420 -> همه اپرات...
+- name: '🇩🇪@EXPRESSVPN_420 -> همه اپرات... #1'
   password: 3QlSMKyqLp
   port: 443
   server: android.yas-nowin.ir
@@ -698,7 +698,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: DE-telegram-@ISVvpn  🌐 لوکیشن:...
+- name: 'DE-telegram-@ISVvpn  🌐 لوکیشن:... #1'
   password: 70197404-7b40-45e4-bb9c-8bc8995012ae
   port: 24568
   server: fra-nb-01.linlujs.pw
@@ -712,7 +712,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: 'Channel id: @vpnserverrr🇺🇸'
+- name: 'Channel id: @vpnserverrr🇺🇸 #2'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: lsj3.mangshe.xyz
@@ -720,7 +720,7 @@ proxies:
   sni: lsj3.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 'Channel id: @vpnserverrr🇺🇸 #1'
+- name: 'Channel id: @vpnserverrr🇺🇸 #1 #1'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: mg1.mangshe.xyz
@@ -728,7 +728,7 @@ proxies:
   sni: mg1.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 'Channel id: @vpnserverrr🇸🇬'
+- name: 'Channel id: @vpnserverrr🇸🇬 #1'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2060
   server: xjp2.mangshe.xyz
@@ -736,7 +736,7 @@ proxies:
   sni: xjp2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 💎کانفیگ های بیشتر در چنل تلگرا...
+- name: '💎کانفیگ های بیشتر در چنل تلگرا... #3'
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
   server: 77.223.214.193
@@ -784,7 +784,7 @@ proxies:
   sni: de.youyacloud.me
   tls: false
   type: hysteria2
-- name: 🇳🇱@FreakConfig
+- name: '🇳🇱@FreakConfig #2'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -804,7 +804,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 'r♡ya #2'
+- name: 'r♡ya #2 #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -824,7 +824,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '💎کانفیگ های بیشتر در چنل تلگرا... #1'
+- name: '💎کانفیگ های بیشتر در چنل تلگرا... #4'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -834,7 +834,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@Daily_Configs <== Ъ©Ш§ЩҶШ§Щ„ ...'
+- name: '@Daily_Configs <== کانال تلگرا...'
   obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
   password: daily_configs
@@ -844,7 +844,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs <== Ъ©Ш§ЩҶШ§Щ„ ... #2'
+- name: '@Daily_Configs <== کانال تلگرا... #2'
   obfs: salamander
   obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
   password: daily_configs
@@ -923,7 +923,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'r♡ya #3'
+- name: 'r♡ya #3 #1'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -948,7 +948,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs В«== Ъ©Ш§ЩҶШ§Щ„'
+- name: '@Daily_Configs «== کانال'
   obfs: salamander
   obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
   password: joindailyconfigs
@@ -958,7 +958,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs В«== Ъ©Ш§ЩҶШ§Щ„...'
+- name: '@Daily_Configs «== کانال تلگرا...'
   obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
   password: joindailyconfigs
@@ -988,7 +988,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs <== Ъ©Ш§ЩҶШ§Щ„ ... #4'
+- name: '@Daily_Configs <== کانال تلگرا... #4'
   obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
   password: mahsaamini
