@@ -642,7 +642,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: r♡ya
+- name: 'r♡ya #5'
   password: 2b67ONZROv+fRVMxB94BSw==
   port: 443
   server: 5.231.70.79
@@ -786,13 +786,13 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '💎کانفیگ های بیشتر در چنل تلگرا... #4'
+- name: 'r♡ya #2 #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 36300
   server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
@@ -806,7 +806,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '💎کانفیگ های بیشتر در چنل تلگرا... #5'
+- name: '💎کانفیگ های بیشتر در چنل تلگرا... #4'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -816,7 +816,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 'WI-FI--@IRAN_V2RAY1 #2 #1'
+- name: 'r♡ya #3 #1'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -829,14 +829,6 @@ proxies:
   port: 25684
   server: us-nb-01.linlujs.pw
   skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: 'Channel id: @ShadowProxy66🇯🇵'
-  password: fabd2b79-693a-4a37-827c-6d299e8813b1
-  port: 443
-  server: 133.18.163.202
-  skip-cert-verify: true
-  sni: www.microsoft.com
   tls: false
   type: hysteria2
 - alterId: 2
