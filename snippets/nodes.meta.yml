@@ -634,7 +634,7 @@ proxies:
   sni: apple.com
   type: hysteria
   up: 1000
-- name: '@Daily_Configs #12'
+- name: '@Daily_Configs #13'
   password: 1a8588b6-9700-4ff6-80e6-64e18f2e5336
   port: 43836
   server: de1.jueduibupao.top
@@ -834,6 +834,16 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
+- name: '@Daily_Configs #2'
+  obfs: salamander
+  obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
+  password: bsnnajjbjsjnjjjbbbsbjajhjnnwjnbudn
+  port: 443
+  server: 103.249.133.79
+  skip-cert-verify: true
+  sni: microsoft.com
+  tls: false
+  type: hysteria2
 - name: '@Daily_Configs <== کانال تلگرا... #8'
   obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
@@ -848,16 +858,6 @@ proxies:
   obfs: salamander
   obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
   password: daily_configs
-  port: 443
-  server: 95.181.174.31
-  skip-cert-verify: true
-  sni: slack.com
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs IPv4 #3'
-  obfs: salamander
-  obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
-  password: daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs
   port: 443
   server: 95.181.174.31
   skip-cert-verify: true
@@ -948,16 +948,6 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs «== کانال #2'
-  obfs: salamander
-  obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
-  password: joindailyconfigs
-  port: 443
-  server: 95.181.174.31
-  skip-cert-verify: true
-  sni: slack.com
-  tls: false
-  type: hysteria2
 - name: '@Daily_Configs «== کانال تلگرا... #2'
   obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
@@ -988,6 +978,24 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
+- name: 🇺🇲@FreakConfig
+  obfs: salamander
+  obfs-password: wcancmaocnewrivbkacmlmsvwuvdfsv
+  password: lHoYmNZmLe
+  port: 28777
+  server: pouria.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '🇺🇲@FreakConfig #1'
+  obfs: salamander
+  obfs-password: uvahwuicbhwabhvlhv
+  password: lHoYmNZmLe
+  port: 53713
+  server: pouria.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: '@Daily_Configs <== کانال تلگرا... #10'
   obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
@@ -1012,6 +1020,26 @@ proxies:
   obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
   password: zanzendegiazadi
+  port: 443
+  server: 95.181.174.31
+  skip-cert-verify: true
+  sni: slack.com
+  tls: false
+  type: hysteria2
+- name: '@Daily_Configs IPv4 #2'
+  obfs: salamander
+  obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
+  password: daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs
+  port: 443
+  server: 95.181.174.31
+  skip-cert-verify: true
+  sni: slack.com
+  tls: false
+  type: hysteria2
+- name: '@Daily_Configs «== کانال'
+  obfs: salamander
+  obfs-password: tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs
+  password: joindailyconfigs
   port: 443
   server: 95.181.174.31
   skip-cert-verify: true
