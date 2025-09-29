@@ -834,7 +834,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: MCI---4
+- name: 'MCI---4 #1'
   obfs: salamander
   obfs-password: khameniiko@smad@ret
   password: YwuvGJk36B
@@ -844,7 +844,7 @@ proxies:
   sni: kotlet.arshiacomplus.dpdns.org
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #2 #1'
+- name: '@V2rayNGVPN <= کانفیگ رایگان #2'
   obfs: salamander
   obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
   password: biadailyconfigs
@@ -1014,7 +1014,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '@V2rayNGVPN <= کانفیگ رایگان #2'
+- name: '@V2rayNGVPN <= کانفیگ رایگان #...'
   obfs: salamander
   obfs-password: ki(rtoko(s-maret-khamneii
   password: siEk2SjZFG
@@ -1034,7 +1034,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #13 #1'
+- name: '@Daily_Configs #14 #1'
   obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
   password: zanzendegiazadi
@@ -1044,7 +1044,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #13'
+- name: '@Daily_Configs #13 #1'
   password: zanzendegiazadi
   port: 443
   server: 103.249.133.79
