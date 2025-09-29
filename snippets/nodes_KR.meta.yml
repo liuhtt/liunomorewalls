@@ -1,4 +1,14 @@
 proxies:
+- alterId: 0
+  cipher: auto
+  name: '韩国|@ripaojiedian #1'
+  network: tcp
+  port: '10755'
+  server: 45.94.68.13
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a844b289-6fd7-407b-8312-d600ec2efcd4
 - name: KR_speednode_0012
   network: ws
   port: 8443
@@ -15,21 +25,11 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 🇰🇷 韩国|@ripaojiedian
+  name: '🇰🇷 韩国|@ripaojiedian #1'
   port: 10755
   server: 45.94.68.13
   skip-cert-verify: false
   tfo: false
-  tls: false
-  type: vmess
-  uuid: a844b289-6fd7-407b-8312-d600ec2efcd4
-- alterId: 0
-  cipher: auto
-  name: 韩国|@ripaojiedian
-  network: tcp
-  port: '10755'
-  server: 45.94.68.13
-  servername: ''
   tls: false
   type: vmess
   uuid: a844b289-6fd7-407b-8312-d600ec2efcd4

@@ -15,10 +15,12 @@ proxies:
   sni: mg1.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 美国|@ripaojiedian
+- client-fingerprint: chrome
+  name: '美国|@ripaojiedian #1'
+  network: tcp
   password: 253bc477d4e43c209f2d427272968280
-  port: 1700
-  server: 160.16.87.174
+  port: 4317
+  server: 160.16.117.182
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
@@ -300,15 +302,6 @@ proxies:
     headers:
       Host: server32.beheshtbaneh.com
     path: /
-- client-fingerprint: chrome
-  name: '美国|@ripaojiedian #1'
-  network: tcp
-  password: 253bc477d4e43c209f2d427272968280
-  port: 4317
-  server: 160.16.117.182
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
 - name: 'US_speednode_0021 #1'
   network: ws
   port: 443
