@@ -92,6 +92,7 @@ hysteria2://joindailyconfigschanel@103.249.133.79:443?insecure=1&sni=microsoft.c
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:28777?insecure=1&obfs=salamander&obfs-password=wcancmaocnewrivbkacmlmsvwuvdfsv#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig%20%233
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:53713?insecure=1&obfs=salamander&obfs-password=uvahwuicbhwabhvlhv#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig%20%231%20%231
 hysteria2://mahsaamini@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=sk8JqhGcrazoMtCeqlBX76nwlPaypmnP#%40Daily_Configs%20%3C%3D%3D%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7...%20%2310
+hysteria2://siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:2083?insecure=1&sni=ghasem.kotlet.org&obfs=salamander&obfs-password=ki(rtoko(s-maret-khamneii#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 hysteria2://telegramchannel_daily_configs@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=sk8JqhGcrazoMtCeqlBX76nwlPaypmnP#Telegram%3A%40Daily_Configs%20%232
 hysteria2://zanzendegiazadi@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=sk8JqhGcrazoMtCeqlBX76nwlPaypmnP#%40Daily_Configs%20%2312%20%231
 hysteria2://kanale_dailyconfigs@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs#%40Daily_Configs%20IPv4
@@ -189,5 +190,5 @@ vless://b65f4df7-f6af-42b2-877a-cef33f21675e@195.13.45.32:2096?allowInsecure=0&s
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@159.112.235.32:2096?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippetssecurity=tls#US_speednode_0034%20%231
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@204.93.210.32:2096?allowInsecure=1&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippetssecurity=tls#US_speednode_0035%20%231
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@192.0.54.32:2096?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippetssecurity=tls#US_speednode_0037%20%231
-ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fzksuapgx%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
