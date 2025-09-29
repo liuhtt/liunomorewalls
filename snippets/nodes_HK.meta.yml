@@ -25,9 +25,7 @@ proxies:
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- client-fingerprint: chrome
-  name: '香港6|@ripaojiedian #1'
-  network: tcp
+- name: 香港6|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 443
   server: 221.128.195.239
@@ -60,3 +58,12 @@ proxies:
   server: 103.103.245.158
   tfo: false
   type: ss
+- client-fingerprint: chrome
+  name: '香港6|@ripaojiedian #1'
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 443
+  server: 203.198.123.174
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
