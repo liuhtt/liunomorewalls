@@ -2,7 +2,7 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: 香港|@ripaojiedian
+  name: '香港|@ripaojiedian #1'
   network: ws
   port: '30809'
   server: v9.heduian.link
@@ -16,26 +16,10 @@ proxies:
     headers:
       Host: baidu.com
     path: /oooo
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 香港2|@ripaojiedian
-  password: ccf426f1fe78
-  plugin: v2ray-plugin
-  plugin-opts:
-    host: newroot2v1.dsjsapp.com
-    mode: websocket
-    mux: true
-    path: /zksuapgx
-    skip-cert-verify: false
-    tls: true
-  port: 443
-  server: 103.103.245.158
-  tfo: false
-  type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 香港3|@ripaojiedian
+  name: '香港3|@ripaojiedian #1'
   network: ws
   port: '31469'
   server: 149.30.232.103
@@ -50,7 +34,7 @@ proxies:
       Host: ''
     path: /arki?ed=2048
 - client-fingerprint: chrome
-  name: 香港4|@ripaojiedian
+  name: '香港4|@ripaojiedian #1'
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 446
@@ -77,7 +61,7 @@ proxies:
       Host: broadcastlv.chat.bilibili.com
     path: /
 - client-fingerprint: chrome
-  name: 香港6|@ripaojiedian
+  name: '香港6|@ripaojiedian #1'
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 443
@@ -87,7 +71,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 香港v2|@ripaojiedian
+  name: '香港v2|@ripaojiedian #1'
   network: kcp
   port: '5043'
   server: 47.242.186.1
@@ -95,6 +79,22 @@ proxies:
   tls: false
   type: vmess
   uuid: 93c35277-ee3f-4ab2-9d9e-462b97a8795f
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: '🇭🇰 香港2|@ripaojiedian #1'
+  password: ccf426f1fe78
+  plugin: v2ray-plugin
+  plugin-opts:
+    host: newroot2v1.dsjsapp.com
+    mode: websocket
+    mux: true
+    path: /zksuapgx
+    skip-cert-verify: false
+    tls: true
+  port: 443
+  server: 103.103.245.158
+  tfo: false
+  type: ss
 - alterId: 2
   cipher: auto
   name: HK_speednode_0045
