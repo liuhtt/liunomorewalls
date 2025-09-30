@@ -1,17 +1,7 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 韩国|@ripaojiedian
-  network: tcp
-  port: '10755'
-  server: 45.94.68.13
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: a844b289-6fd7-407b-8312-d600ec2efcd4
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: '🇰🇷 韩国|@ripaojiedian #1'
+  name: 🇰🇷 韩国|@ripaojiedian
   password: qwerREWQ@@
   port: 2520
   server: 121.170.203.147

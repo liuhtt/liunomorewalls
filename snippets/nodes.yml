@@ -608,119 +608,6 @@ proxies:
     headers:
       Host: www.47876202.xyz
     path: /path/191019072927
-- alterId: 2
-  cipher: auto
-  name: '香港|@ripaojiedian #1'
-  network: ws
-  port: '30809'
-  server: v9.heduian.link
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  ws-opts:
-    headers:
-      Host: baidu.com
-    path: /oooo
-- name: 香港4|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 443
-  server: 126.116.225.149
-  skip-cert-verify: true
-  sni: www.nintendogames.net
-  type: trojan
-- name: 香港6|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 443
-  server: 203.198.123.174
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 日本2|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 3160
-  server: 160.16.231.103
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: '日本3|@ripaojiedian #1'
-  network: tcp
-  password: 253bc477d4e43c209f2d427272968280
-  port: 1802
-  server: 153.121.51.29
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 新加坡|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 2045
-  server: 160.16.130.66
-  skip-cert-verify: true
-  sni: www.nintendogames.net
-  type: trojan
-- alterId: 0
-  cipher: auto
-  name: 韩国|@ripaojiedian
-  network: tcp
-  port: '10755'
-  server: 45.94.68.13
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: a844b289-6fd7-407b-8312-d600ec2efcd4
-- name: 新加坡2|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 3957
-  server: 160.16.87.174
-  skip-cert-verify: true
-  sni: www.nintendogames.net
-  type: trojan
-- name: 美国|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 4317
-  server: 160.16.117.182
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 美国2|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 3296
-  server: 160.16.117.182
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- alterId: 0
-  cipher: auto
-  name: 印度尼西亚|@ripaojiedian
-  network: tcp
-  port: '26144'
-  server: ppy-boardv2.02ijp4uos1.download
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: aa15b97a-24b1-3a31-824a-bc52f5a15bac
-- alterId: 0
-  cipher: auto
-  name: '香港v2|@ripaojiedian #1'
-  network: kcp
-  port: '5043'
-  server: 47.242.186.1
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 93c35277-ee3f-4ab2-9d9e-462b97a8795f
-- alterId: 0
-  cipher: auto
-  name: 日本v2|@ripaojiedian
-  network: kcp
-  port: '30391'
-  server: 54.168.151.169
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: c977388d-4550-4135-bbc6-0199daa76352
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 印度  2
@@ -846,14 +733,30 @@ proxies:
       Host: server32.beheshtbaneh.com
     path: /
 - cipher: aes-256-cfb
-  name: 'tg频道:@ripaojiedian #1'
+  name: tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
   server: 3.250.25.159
   tfo: false
   type: ss
+- alterId: 2
+  cipher: auto
+  name: 香港|@ripaojiedian
+  network: ws
+  port: '30809'
+  server: v9.heduian.link
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  ws-opts:
+    headers:
+      Host: baidu.com
+    path: /oooo
 - cipher: aes-256-gcm
-  name: '🇭🇰 香港2|@ripaojiedian #1'
+  name: 🇭🇰 香港2|@ripaojiedian
   password: ccf426f1fe78
   plugin: v2ray-plugin
   plugin-opts:
@@ -883,7 +786,7 @@ proxies:
     headers:
       Host: ''
     path: /arki?ed=2048
-- name: '香港4|@ripaojiedian #1'
+- name: 香港4|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 446
@@ -893,21 +796,22 @@ proxies:
   type: trojan
 - alterId: 2
   cipher: auto
-  name: 香港5|@ripaojiedian
+  name: HK_speednode_0047
   network: ws
-  port: '80'
+  port: 80
   server: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com
   servername: ''
-  skip-cert-verify: false
+  skip-cert-verify: true
   tfo: false
   tls: false
   type: vmess
+  udp: true
   uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
   ws-opts:
     headers:
       Host: broadcastlv.chat.bilibili.com
     path: /
-- name: '香港6|@ripaojiedian #1'
+- name: 香港6|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 443
@@ -916,7 +820,7 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - cipher: aes-128-gcm
-  name: 🇯🇵 日本|@ripaojiedian
+  name: CN_speednode_0008
   password: 722a54414ae6ee706ac9
   plugin: obfs
   plugin-opts:
@@ -926,7 +830,8 @@ proxies:
   server: jp07.jd.kunlunpx.com
   tfo: false
   type: ss
-- name: '日本2|@ripaojiedian #1'
+  udp: true
+- name: 日本2|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 3160
@@ -934,8 +839,16 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
+- name: 日本3|@ripaojiedian
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 1802
+  server: 153.121.51.29
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
 - cipher: aes-256-cfb
-  name: '🇰🇷 韩国|@ripaojiedian #1'
+  name: 🇰🇷 韩国|@ripaojiedian
   password: qwerREWQ@@
   port: 2520
   server: 121.170.203.147
@@ -951,7 +864,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 7cc8bff2-1e5c-45d1-a3e7-b35e8f25cbbe
-- name: '新加坡|@ripaojiedian #1'
+- name: 新加坡|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 4397
@@ -959,7 +872,7 @@ proxies:
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: '新加坡2|@ripaojiedian #1'
+- name: 新加坡2|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 3043
@@ -967,7 +880,7 @@ proxies:
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- name: '美国|@ripaojiedian #1'
+- name: 美国|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 3294
@@ -975,7 +888,7 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: '美国2|@ripaojiedian #1'
+- name: 美国2|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 5343
@@ -994,7 +907,7 @@ proxies:
   type: vmess
   uuid: e47902b2-928b-41ec-a868-ed3d1d4bec76
 - cipher: aes-256-cfb
-  name: '🇻🇳 越南|@ripaojiedian #1'
+  name: 🇻🇳 越南|@ripaojiedian
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   port: 38388
   server: 103.186.154.42
@@ -1002,7 +915,17 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '日本v2|@ripaojiedian #1'
+  name: 香港v2|@ripaojiedian
+  network: kcp
+  port: '5043'
+  server: 47.242.186.1
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 93c35277-ee3f-4ab2-9d9e-462b97a8795f
+- alterId: 0
+  cipher: auto
+  name: 日本v2|@ripaojiedian
   network: kcp
   port: '20932'
   server: 43.207.83.60
@@ -1030,3 +953,283 @@ proxies:
   tls: false
   type: vmess
   uuid: e47902b2-928b-41ec-a868-ed3d1d4bec76
+- alterId: 0
+  cipher: auto
+  name: CN_speednode_0001
+  port: 6001
+  server: cn01.efan8867801.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5af37c85-67d9-4955-ac57-1d682855d0ed
+- alterId: 0
+  cipher: auto
+  name: CN_speednode_0002
+  port: 6001
+  server: efan8998.efan-dns78655.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5af37c85-67d9-4955-ac57-1d682855d0ed
+- alterId: 0
+  cipher: auto
+  name: CN_speednode_0003
+  port: 6004
+  server: cn01.efan8867801.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5af37c85-67d9-4955-ac57-1d682855d0ed
+- alterId: 0
+  cipher: auto
+  name: CN_speednode_0004
+  port: 6001
+  server: cn01.365cloud8754.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5af37c85-67d9-4955-ac57-1d682855d0ed
+- alterId: 0
+  cipher: auto
+  name: CN_speednode_0005
+  port: 6004
+  server: cn01.365cloud8754.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5af37c85-67d9-4955-ac57-1d682855d0ed
+- alterId: 0
+  cipher: auto
+  name: CN_speednode_0019
+  port: 6041
+  server: efan8998.efan-dns78655.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5af37c85-67d9-4955-ac57-1d682855d0ed
+- alterId: 0
+  cipher: auto
+  name: CN_speednode_0020
+  port: 6041
+  server: cn01.efan8867801.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5af37c85-67d9-4955-ac57-1d682855d0ed
+- alterId: 0
+  cipher: auto
+  name: CN_speednode_0023
+  port: 6018
+  server: cn01.365cloud8754.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5af37c85-67d9-4955-ac57-1d682855d0ed
+- alterId: 0
+  cipher: auto
+  name: CN_speednode_0025
+  port: 6041
+  server: cn01.365cloud8754.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5af37c85-67d9-4955-ac57-1d682855d0ed
+- alterId: 0
+  cipher: auto
+  name: CN_speednode_0026
+  port: 6021
+  server: cn01.efan8867801.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5af37c85-67d9-4955-ac57-1d682855d0ed
+- alterId: 0
+  cipher: auto
+  name: CN_speednode_0027
+  port: 6021
+  server: efan8998.efan-dns78655.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5af37c85-67d9-4955-ac57-1d682855d0ed
+- alterId: 0
+  cipher: auto
+  name: CN_speednode_0029
+  port: 6021
+  server: cn01.365cloud8754.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5af37c85-67d9-4955-ac57-1d682855d0ed
+- cipher: chacha20-ietf-poly1305
+  name: CN_speednode_0030
+  password: e63e32fc-c4d2-4cb5-9bbd-a5d51b1144bf
+  port: 19009
+  server: yy2.vyunyunnode.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: CN_speednode_0031
+  password: e63e32fc-c4d2-4cb5-9bbd-a5d51b1144bf
+  port: 19006
+  server: yy3.vyunyunnode.top
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: CN_speednode_0032
+  port: 6007
+  server: cn01.efan8867801.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5af37c85-67d9-4955-ac57-1d682855d0ed
+- alterId: 0
+  cipher: auto
+  name: CN_speednode_0033
+  port: 6007
+  server: efan8998.efan-dns78655.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5af37c85-67d9-4955-ac57-1d682855d0ed
+- cipher: chacha20-ietf-poly1305
+  name: CN_speednode_0035
+  password: e63e32fc-c4d2-4cb5-9bbd-a5d51b1144bf
+  port: 19004
+  server: yy3.vyunyunnode.top
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: CN_speednode_0036
+  port: 6007
+  server: cn01.365cloud8754.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5af37c85-67d9-4955-ac57-1d682855d0ed
+- cipher: chacha20-ietf-poly1305
+  name: CN_speednode_0039
+  password: e63e32fc-c4d2-4cb5-9bbd-a5d51b1144bf
+  port: 21003
+  server: yy2.vyunyunnode.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: CN_speednode_0040
+  password: e63e32fc-c4d2-4cb5-9bbd-a5d51b1144bf
+  port: 19020
+  server: yy2.vyunyunnode.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: CN_speednode_0041
+  password: e63e32fc-c4d2-4cb5-9bbd-a5d51b1144bf
+  port: 19019
+  server: yy1.vyunyunnode.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: CN_speednode_0042
+  password: e63e32fc-c4d2-4cb5-9bbd-a5d51b1144bf
+  port: 19015
+  server: yy2.vyunyunnode.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: CN_speednode_0044
+  password: e63e32fc-c4d2-4cb5-9bbd-a5d51b1144bf
+  port: 19005
+  server: yy1.vyunyunnode.top
+  type: ss
+  udp: true
+- alterId: 2
+  cipher: auto
+  name: HK_speednode_0045
+  network: ws
+  port: 80
+  server: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com
+  servername: broadcastlv.chat.bilibili.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
+- alterId: 2
+  cipher: auto
+  name: HK_speednode_0046
+  network: ws
+  port: 80
+  server: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com
+  servername: broadcastlv.chat.bilibili.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
+  ws-opts:
+    headers:
+      Host: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com
+    path: /
+- alterId: 2
+  cipher: auto
+  name: HK_speednode_0048
+  network: ws
+  port: 80
+  server: eb362f92-svukg0-t12cnj-1ol97.hk.p5pv.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
+  ws-opts:
+    headers:
+      Host: eb362f92-svukg0-t12cnj-1ol97.hk.p5pv.com
+    path: /
+- alterId: 0
+  cipher: auto
+  http-opts:
+    method: GET
+    path:
+    - /
+  name: IN_speednode_0050
+  network: http
+  port: 18872
+  server: 123.58.203.92
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: edfe29a5-cc54-488d-a31d-ca71f39e38d4
+- alterId: 0
+  cipher: auto
+  name: US_speednode_0056
+  network: ws
+  port: 444
+  server: 154.26.176.94
+  servername: us.nbee.pp.ua
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: de94cc0a-0592-4969-b1fc-97ea8f0ea0b3
+  ws-opts:
+    headers:
+      Host: us.nbee.pp.ua
+    path: /aa
