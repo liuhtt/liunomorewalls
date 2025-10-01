@@ -1,5 +1,5 @@
 proxies:
-- name: 'Channel id: @vpnserverrr🇸🇬'
+- name: 'Channel id: @vpnserverrr🇸🇬 #1'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2060
   server: xjp2.mangshe.xyz
@@ -8,7 +8,7 @@ proxies:
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
-  name: 新加坡|@ripaojiedian
+  name: '新加坡|@ripaojiedian #1'
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 1331
@@ -17,7 +17,7 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - client-fingerprint: chrome
-  name: 新加坡2|@ripaojiedian
+  name: '新加坡2|@ripaojiedian #1'
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 449
