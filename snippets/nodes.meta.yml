@@ -650,7 +650,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@V2rayNGVPN <= کانفیگ رایگان'
+- name: '@V2rayNGVPN <= کانفیگ رایگان #2'
   password: 2429bee3-e0c1-47dd-b420-75e6512b184b
   port: 30300
   server: 40.233.82.111
@@ -658,7 +658,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 未命名
+- name: '未命名 #1'
   password: 2429bee3-e0c1-47dd-b420-75e6512b184b
   port: 30300
   server: 40.233.82.111
@@ -760,7 +760,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@IRAN_V2RAY1 #1 #1'
+- name: '@IRAN_V2RAY1 #2 #1'
   obfs: salamander
   obfs-password: U1wBrYQyFm
   password: 80747420-96c4-4a2f-83e6-eea4e46beb09
@@ -820,7 +820,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱@FreakConfig #2 #1'
+- name: '🇳🇱@FreakConfig #3 #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -850,7 +850,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 'MCI-@IRAN_V2RAY1 #1'
+- name: '🇬🇧@FreakConfig #1'
   obfs: salamander
   obfs-password: khameniiko@smad@ret
   password: YwuvGJk36B
@@ -860,7 +860,7 @@ proxies:
   sni: kotlet.arshiacomplus.dpdns.org
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #5 #1'
+- name: '@Daily_Configs #6 #1'
   obfs: salamander
   obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
   password: biadailyconfigs
@@ -870,7 +870,7 @@ proxies:
   sni: microsoft.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #6 #1'
+- name: '@Daily_Configs #7 #1'
   obfs: salamander
   obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
   password: bsnnajjbjsjnjjjbbbsbjajhjnnwjnbudn
@@ -880,7 +880,7 @@ proxies:
   sni: microsoft.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #7 #1'
+- name: '@Daily_Configs #8 #1'
   obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
   password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs
@@ -890,20 +890,10 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #9 #1'
-  obfs: salamander
-  obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
-  password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs
-  port: 443
-  server: 103.249.133.79
-  skip-cert-verify: true
-  sni: microsoft.com
-  tls: false
-  type: hysteria2
 - name: '@Daily_Configs #10 #1'
   obfs: salamander
   obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
-  password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_
+  password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs
   port: 443
   server: 103.249.133.79
   skip-cert-verify: true
@@ -913,7 +903,7 @@ proxies:
 - name: '@Daily_Configs #11 #1'
   obfs: salamander
   obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
-  password: dailyconfigschannel
+  password: dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_
   port: 443
   server: 103.249.133.79
   skip-cert-verify: true
@@ -921,6 +911,16 @@ proxies:
   tls: false
   type: hysteria2
 - name: '@Daily_Configs #12 #1'
+  obfs: salamander
+  obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
+  password: dailyconfigschannel
+  port: 443
+  server: 103.249.133.79
+  skip-cert-verify: true
+  sni: microsoft.com
+  tls: false
+  type: hysteria2
+- name: '@Daily_Configs #13 #1'
   obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
   password: dailyconfigsdailyconfigsdailyconfigsdailyconfigs
@@ -930,7 +930,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #14 #1'
+- name: '@Daily_Configs #15 #1'
   obfs: salamander
   obfs-password: JBPVtqk1kMBGleBcLZ
   password: df36ace8-640b-42bb-8169-198901af6d9e
@@ -962,7 +962,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #16 #1'
+- name: '@Daily_Configs #17 #1'
   obfs: salamander
   obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
   password: joindailyconfigschanel
@@ -1000,7 +1000,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #17 #1'
+- name: '@Daily_Configs #18 #1'
   password: zanzendegiazadi
   port: 443
   server: 103.249.133.79
@@ -1008,20 +1008,10 @@ proxies:
   sni: ubuntu.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #18 #1'
+- name: '@Daily_Configs #19 #1'
   obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
   password: zanzendegiazadi
-  port: 443
-  server: 95.181.174.31
-  skip-cert-verify: true
-  sni: slack.com
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs «== کانال تلگرا...'
-  obfs: salamander
-  obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
-  password: joindailyconfigs
   port: 443
   server: 95.181.174.31
   skip-cert-verify: true
