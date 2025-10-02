@@ -634,7 +634,7 @@ proxies:
   sni: apple.com
   type: hysteria
   up: 1000
-- name: '@Daily_Configs #19'
+- name: '@Daily_Configs #20'
   password: 1a8588b6-9700-4ff6-80e6-64e18f2e5336
   port: 43836
   server: de1.jueduibupao.top
@@ -648,6 +648,22 @@ proxies:
   server: 204.44.110.129
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '@V2rayNGVPN <= کانفیگ رایگان'
+  password: 2429bee3-e0c1-47dd-b420-75e6512b184b
+  port: 30300
+  server: 40.233.82.111
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 未命名
+  password: 2429bee3-e0c1-47dd-b420-75e6512b184b
+  port: 30300
+  server: 40.233.82.111
+  skip-cert-verify: true
+  sni: www.bing.com@V2rayNGVPN <= کانفیگ رایگان
   tls: false
   type: hysteria2
 - name: '🇩🇪@FreakConfig #1 #1'
@@ -946,16 +962,6 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '@Daily_Configs «== کانال تلگرا... #2'
-  obfs: salamander
-  obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
-  password: joindailyconfigs
-  port: 443
-  server: 95.181.174.31
-  skip-cert-verify: true
-  sni: slack.com
-  tls: false
-  type: hysteria2
 - name: '@Daily_Configs #16 #1'
   obfs: salamander
   obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
@@ -1006,6 +1012,16 @@ proxies:
   obfs: salamander
   obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
   password: zanzendegiazadi
+  port: 443
+  server: 95.181.174.31
+  skip-cert-verify: true
+  sni: slack.com
+  tls: false
+  type: hysteria2
+- name: '@Daily_Configs «== کانال تلگرا...'
+  obfs: salamander
+  obfs-password: sk8JqhGcrazoMtCeqlBX76nwlPaypmnP
+  password: joindailyconfigs
   port: 443
   server: 95.181.174.31
   skip-cert-verify: true
