@@ -1,5 +1,5 @@
 proxies:
-- name: 'Channel id: @vpnserverrr🇺🇸'
+- name: 'Channel id: @vpnserverrr🇺🇸 #2'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: lsj3.mangshe.xyz
@@ -7,7 +7,7 @@ proxies:
   sni: lsj3.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 'Channel id: @vpnserverrr🇺🇸 #1'
+- name: 'Channel id: @vpnserverrr🇺🇸 #1 #1'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: mg1.mangshe.xyz
@@ -15,6 +15,28 @@ proxies:
   sni: mg1.mangshe.xyz
   tls: false
   type: hysteria2
+- client-fingerprint: chrome
+  name: '美国2|@ripaojiedian #1'
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 3296
+  server: 36.156.102.88
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: US_speednode_0025
+  network: ws
+  port: 2096
+  server: 72.167.25.253
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /Telegramsecurity=tls
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 美国CloudFla...
@@ -83,16 +105,7 @@ proxies:
     headers:
       Host: server32.beheshtbaneh.com
     path: /
-- client-fingerprint: chrome
-  name: 美国2|@ripaojiedian
-  network: tcp
-  password: 253bc477d4e43c209f2d427272968280
-  port: 3296
-  server: 36.156.102.88
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: US_speednode_0025
+- name: 'US_speednode_0025 #1'
   network: ws
   port: 2096
   server: 72.167.25.253
