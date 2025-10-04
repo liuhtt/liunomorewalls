@@ -18,52 +18,11 @@ proxies:
     path: /oooo
 - alterId: 0
   cipher: auto
-  name: 香港3|@ripaojiedian
+  name: '香港3|@ripaojiedian #1'
   network: tcp
-  port: '12114'
-  server: 103.224.80.49
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: aa92855a-9932-4e87-b5c2-4aed159c7c78
-- name: 香港4|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 444
-  server: 221.128.195.217
-  skip-cert-verify: true
-  sni: www.nintendogames.net
-  type: trojan
-- name: 香港6|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 443
-  server: 58.152.25.156
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: '🇭🇰 香港2|@ripaojiedian #1'
-  password: ccf426f1fe78
-  plugin: v2ray-plugin
-  plugin-opts:
-    host: newroot2v1.dsjsapp.com
-    mode: websocket
-    mux: true
-    path: /zksuapgx
-    skip-cert-verify: false
-    tls: true
-  port: 443
-  server: 103.103.245.158
-  tfo: false
-  type: ss
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: '🇭🇰 香港3|@ripaojiedian #1'
-  port: 18366
+  port: '18366'
   server: 43.247.134.213
-  skip-cert-verify: false
-  tfo: false
+  servername: ''
   tls: false
   type: vmess
   uuid: ccc37b1b-4ef0-430c-b1e1-20bf96fcff8c
@@ -88,7 +47,7 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: 香港5|@ripaojiedian
+  name: '香港5|@ripaojiedian #1'
   network: ws
   port: '80'
   server: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com
@@ -102,13 +61,30 @@ proxies:
     headers:
       Host: broadcastlv.chat.bilibili.com
     path: /
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: '🇭🇰 香港2|@ripaojiedian #1'
+  password: ccf426f1fe78
+  plugin: v2ray-plugin
+  plugin-opts:
+    host: newroot2v1.dsjsapp.com
+    mode: websocket
+    mux: true
+    path: /zksuapgx
+    skip-cert-verify: false
+    tls: true
+  port: 443
+  server: 103.103.245.158
+  tfo: false
+  type: ss
 - alterId: 0
   cipher: auto
-  name: '香港3|@ripaojiedian #1'
-  network: tcp
-  port: '18366'
+  client-fingerprint: chrome
+  name: '🇭🇰 香港3|@ripaojiedian #1'
+  port: 18366
   server: 43.247.134.213
-  servername: ''
+  skip-cert-verify: false
+  tfo: false
   tls: false
   type: vmess
   uuid: ccc37b1b-4ef0-430c-b1e1-20bf96fcff8c
