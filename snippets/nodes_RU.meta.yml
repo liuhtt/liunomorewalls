@@ -14,7 +14,7 @@ proxies:
   udp: true
   uuid: d4e4c02a-d969-47a6-ba0f-3d433fdac206
 - client-fingerprint: chrome
-  name: RU_speednode_0021
+  name: 'RU_speednode_0021 #1'
   port: 8080
   reality-opts:
     public-key: iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs
@@ -27,36 +27,8 @@ proxies:
   udp: true
   uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
 - client-fingerprint: chrome
-  name: RU_speednode_0018
-  port: 8080
-  server: 5.181.2.51
-  servername: yandex.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-- client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: RU_speednode_0019
-  port: 443
-  server: wa.sfasti.ru
-  servername: wa.sfasti.ru
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: d4e4c02a-d969-47a6-ba0f-3d433fdac206
-- client-fingerprint: chrome
-  name: RU_speednode_0020
-  port: 8080
-  server: 147.45.217.250
-  servername: yandex.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: RU_speednode_0022
+  name: 'RU_speednode_0022 #1'
   port: 443
   reality-opts:
     public-key: V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4
@@ -70,7 +42,7 @@ proxies:
   uuid: ed97e008-2b8d-4415-94c7-3da4919d361a
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: RU_speednode_0023
+  name: 'RU_speednode_0023 #1'
   port: 443
   reality-opts:
     public-key: V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4
@@ -84,7 +56,7 @@ proxies:
   uuid: ed97e008-2b8d-4415-94c7-3da4919d361a
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: RU_speednode_0024
+  name: 'RU_speednode_0024 #1'
   port: 443
   reality-opts:
     public-key: V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4
@@ -98,7 +70,7 @@ proxies:
   uuid: ed97e008-2b8d-4415-94c7-3da4919d361a
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: RU_speednode_0025
+  name: 'RU_speednode_0025 #1'
   port: 443
   reality-opts:
     public-key: J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8
