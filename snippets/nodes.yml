@@ -652,16 +652,15 @@ proxies:
   type: trojan
 - alterId: 2
   cipher: auto
-  name: HK_speednode_0007
+  name: '香港5|@ripaojiedian #1'
   network: ws
-  port: 80
+  port: '80'
   server: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com
   servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vmess
-  udp: true
   uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
   ws-opts:
     headers:
@@ -707,7 +706,7 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: '美国2|@ripaojiedian #1'
+- name: CN_speednode_0007
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 472
@@ -715,6 +714,7 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
+  udp: true
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 印度  2
@@ -907,73 +907,31 @@ proxies:
   uuid: 55a374b6-3108-4b65-a987-a0926ddbfba6
 - alterId: 2
   cipher: auto
-  name: HK_speednode_0008
+  name: CN_speednode_0006
   network: ws
-  port: 80
-  server: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com
-  servername: broadcastlv.chat.bilibili.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
-  ws-opts:
-    headers:
-      Host: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com
-    path: /
-- alterId: 2
-  cipher: auto
-  name: HK_speednode_0009
-  network: ws
-  port: 80
-  server: eb362f92-svukg0-t12cnj-1ol97.hk.p5pv.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
-  ws-opts:
-    headers:
-      Host: eb362f92-svukg0-t12cnj-1ol97.hk.p5pv.com
-    path: /
-- alterId: 2
-  cipher: auto
-  name: HK_speednode_0010
-  network: ws
-  port: 80
-  server: 697dc551-t1i9s0-tm53cm-1ol97.hk3.p5pv.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
-  ws-opts:
-    headers:
-      Host: 697dc551-t1i9s0-tm53cm-1ol97.hk3.p5pv.com
-    path: /
-- alterId: 2
-  cipher: auto
-  name: HK_speednode_0011
-  network: ws
-  port: 80
-  server: 1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: HK_speednode_0012
-  network: http
-  port: 31212
-  server: 47.242.90.210
+  port: 30806
+  server: v6.heduian.link
   skip-cert-verify: false
   tls: false
   type: vmess
   udp: true
-  uuid: 3a4271fb-2718-4489-da78-80a8e7701aa5
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  ws-opts:
+    headers:
+      Host: ocbc.com
+    path: /oooo
+- alterId: 2
+  cipher: auto
+  name: CN_speednode_0008
+  network: ws
+  port: 30833
+  server: v33.heduian.link
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  ws-opts:
+    headers:
+      Host: baidu.com
+    path: /oooo
