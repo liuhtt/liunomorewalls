@@ -1,5 +1,5 @@
 proxies:
-- name: 'Channel id: @vpnserverrr🇸🇬'
+- name: 'Channel id: @vpnserverrr🇸🇬 #1'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2060
   server: xjp2.mangshe.xyz
@@ -8,7 +8,7 @@ proxies:
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
-  name: 新加坡|@ripaojiedian
+  name: '新加坡|@ripaojiedian #1'
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 2283
@@ -17,7 +17,7 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - client-fingerprint: chrome
-  name: 新加坡2|@ripaojiedian
+  name: '新加坡2|@ripaojiedian #1'
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 22000
@@ -27,22 +27,22 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡3|@ripaojiedian
-  port: 49513
+  name: '新加坡3|@ripaojiedian #1'
+  network: tcp
+  port: '49513'
   server: laeg.hsymanuscript.top
-  skip-cert-verify: false
-  tfo: false
+  servername: ''
   tls: false
   type: vmess
   uuid: 55a374b6-3108-4b65-a987-a0926ddbfba6
 - alterId: 0
   cipher: auto
-  name: 新加坡3|@ripaojiedian
-  network: tcp
-  port: '49513'
+  client-fingerprint: chrome
+  name: '🇸🇬 新加坡3|@ripaojiedian #1'
+  port: 49513
   server: laeg.hsymanuscript.top
-  servername: ''
+  skip-cert-verify: false
+  tfo: false
   tls: false
   type: vmess
   uuid: 55a374b6-3108-4b65-a987-a0926ddbfba6

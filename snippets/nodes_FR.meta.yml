@@ -12,7 +12,7 @@ proxies:
   type: hysteria
   up: 11 Mbps
 - client-fingerprint: chrome
-  name: FR_speednode_0011
+  name: 'FR_speednode_0011 #1'
   port: 8080
   reality-opts:
     public-key: iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs
