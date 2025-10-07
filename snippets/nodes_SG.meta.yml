@@ -35,18 +35,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 55a374b6-3108-4b65-a987-a0926ddbfba6
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: '🇸🇬 新加坡3|@ripaojiedian #1'
-  port: 49513
-  server: laeg.hsymanuscript.top
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 55a374b6-3108-4b65-a987-a0926ddbfba6
-- name: SG_speednode_0023
+- name: 'SG_speednode_0023 #1'
   network: ws
   password: wb6368
   port: 2087
@@ -61,7 +50,7 @@ proxies:
     path: /
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: SG_speednode_0024
+  name: 'SG_speednode_0024 #1'
   port: 25288
   reality-opts:
     public-key: kGb4d8KXEtQ3ayLLBMs5N2dz5__9aH7wdk0QEwl6f2Q
@@ -72,3 +61,14 @@ proxies:
   type: vless
   udp: true
   uuid: 34393e91-834d-4a3d-a901-bbfde643c4e0
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: '🇸🇬 新加坡3|@ripaojiedian #1'
+  port: 49513
+  server: laeg.hsymanuscript.top
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 55a374b6-3108-4b65-a987-a0926ddbfba6

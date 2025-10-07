@@ -27,18 +27,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 55a374b6-3108-4b65-a987-a0926ddbfba6
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: '🇸🇬 新加坡3|@ripaojiedian #1'
-  port: 49513
-  server: laeg.hsymanuscript.top
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 55a374b6-3108-4b65-a987-a0926ddbfba6
-- name: SG_speednode_0023
+- name: 'SG_speednode_0023 #1'
   network: ws
   password: wb6368
   port: 2087
@@ -51,3 +40,14 @@ proxies:
     headers:
       Host: hsdgbuys.pages.dev
     path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: '🇸🇬 新加坡3|@ripaojiedian #1'
+  port: 49513
+  server: laeg.hsymanuscript.top
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 55a374b6-3108-4b65-a987-a0926ddbfba6

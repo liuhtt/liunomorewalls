@@ -1,11 +1,4 @@
 proxies:
-- name: CN_speednode_0007
-  password: 253bc477d4e43c209f2d427272968280
-  port: 472
-  server: 36.156.102.88
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 广东省移动 7
