@@ -17,8 +17,7 @@ proxies:
       Host: ocbc.com
     path: /oooo
 - client-fingerprint: chrome
-  name: '日本2|@ripaojiedian #1'
-  network: tcp
+  name: 🇯🇵 日本2|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 3271
   server: 36.156.102.88
@@ -26,11 +25,24 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - client-fingerprint: chrome
-  name: '日本3|@ripaojiedian #1'
-  network: tcp
+  name: 🇯🇵 日本3|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 1331
   server: 160.16.144.208
   skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: '日本2|@ripaojiedian #1'
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 4451
+  server: 160.16.136.130
+  sni: www.nintendogames.net
+  type: trojan
+- name: '日本3|@ripaojiedian #1'
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 1801
+  server: 36.156.102.88
   sni: www.nintendogames.net
   type: trojan

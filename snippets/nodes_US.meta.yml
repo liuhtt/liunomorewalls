@@ -16,8 +16,7 @@ proxies:
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
-  name: '美国|@ripaojiedian #1'
-  network: tcp
+  name: 🇺🇸 美国|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 4234
   server: 153.121.39.240
@@ -25,8 +24,7 @@ proxies:
   sni: www.nintendogames.net
   type: trojan
 - client-fingerprint: chrome
-  name: '美国2|@ripaojiedian #1'
-  network: tcp
+  name: 🇺🇸 美国2|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
   port: 1177
   server: 182.237.0.26
@@ -303,6 +301,20 @@ proxies:
     headers:
       Host: server32.beheshtbaneh.com
     path: /
+- name: '美国|@ripaojiedian #1'
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 6752
+  server: 36.156.102.88
+  sni: www.nintendogames.net
+  type: trojan
+- name: '美国2|@ripaojiedian #1'
+  network: tcp
+  password: 253bc477d4e43c209f2d427272968280
+  port: 1572
+  server: 36.156.102.88
+  sni: www.nintendogames.net
+  type: trojan
 - client-fingerprint: chrome
   name: 'US_speednode_0025 #1'
   network: ws
