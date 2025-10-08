@@ -1,14 +1,4 @@
 proxies:
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: CA_speednode_0005
-  port: 59303
-  server: 40.233.81.116
-  servername: www.yahoo.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 862e90e1-2f26-4506-b8b9-0adf20da05fc
 - cipher: chacha20-ietf-poly1305
   name: CA_speednode_0012
   password: f8f7aCzcPKbsF8p3

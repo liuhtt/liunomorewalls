@@ -11,16 +11,6 @@ proxies:
   sni: apple.com
   type: hysteria
   up: 11 Mbps
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: FR_speednode_0010
-  port: 443
-  server: 38.54.122.118
-  servername: dash.cloudflare.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 9f4b9824-df02-49c3-a976-d4f9a31f81fe
 - name: FR_speednode_0021
   network: ws
   port: 2096

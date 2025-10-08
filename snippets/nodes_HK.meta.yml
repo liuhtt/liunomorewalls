@@ -2,7 +2,7 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: '香港|@ripaojiedian #1'
+  name: 香港|@ripaojiedian
   network: ws
   port: '30809'
   server: v9.heduian.link
@@ -16,59 +16,9 @@ proxies:
     headers:
       Host: baidu.com
     path: /oooo
-- alterId: 0
-  cipher: auto
-  name: 香港3|@ripaojiedian
-  network: tcp
-  port: '18366'
-  server: 43.247.134.213
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: ccc37b1b-4ef0-430c-b1e1-20bf96fcff8c
-- name: 香港4|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 443
-  server: 58.152.25.23
-  skip-cert-verify: true
-  sni: www.nintendogames.net
-  type: trojan
-- name: 🇭🇰 香港5|@ripaojiedian
-  password: 2338a604-dc6a-4470-bc7d-947e462a3cfd
-  port: 30002
-  server: lazy.rsqpq.cn
-  skip-cert-verify: true
-  sni: lazy.rsqpq.cn
-  type: trojan
-- name: 香港6|@ripaojiedian
-  password: 253bc477d4e43c209f2d427272968280
-  port: 4431
-  server: 221.128.195.218
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 香港5|@ripaojiedian
-  password: 2338a604-dc6a-4470-bc7d-947e462a3cfd
-  port: 30002
-  server: lazy.rsqpq.cn
-  skip-cert-verify: true
-  type: trojan
-- client-fingerprint: chrome
-  name: HK_speednode_0025
-  port: 443
-  reality-opts:
-    public-key: flIlSQ8NWZl0ofim794-EaQhz2OnH1hN7imrQAPheRY
-    short-id: '!!str 53ba1e37'
-  server: 213.176.94.129
-  servername: www.amazon.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 81e9e522-2efd-4709-996d-74e46f4edaf8
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: '🇭🇰 香港2|@ripaojiedian #1'
+  name: 🇭🇰 香港2|@ripaojiedian
   password: ccf426f1fe78
   plugin: v2ray-plugin
   plugin-opts:
@@ -85,7 +35,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '🇭🇰 香港3|@ripaojiedian #1'
+  name: 🇭🇰 香港3|@ripaojiedian
   port: 23203
   server: 103.224.80.27
   skip-cert-verify: false
@@ -106,7 +56,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '🇭🇰 香港5|@ripaojiedian #1'
+  name: 🇭🇰 香港5|@ripaojiedian
   port: 10002
   server: 36.139.201.35
   skip-cert-verify: false
@@ -115,7 +65,7 @@ proxies:
   type: vmess
   uuid: 8d717e5a-dab5-4b99-af4f-ea29ef8eebed
 - client-fingerprint: chrome
-  name: '香港6|@ripaojiedian #1'
+  name: 香港6|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 443
@@ -125,7 +75,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: '香港3|@ripaojiedian #1'
+  name: 香港3|@ripaojiedian
   network: tcp
   port: '23203'
   server: 103.224.80.27
@@ -135,7 +85,7 @@ proxies:
   uuid: 6990d803-ccc0-49fb-b73d-55c913bc7e85
 - alterId: 0
   cipher: auto
-  name: '香港5|@ripaojiedian #1'
+  name: 香港5|@ripaojiedian
   network: tcp
   port: '10002'
   server: 36.139.201.35
@@ -158,3 +108,16 @@ proxies:
   type: vmess
   udp: true
   uuid: 3a4271fb-2718-4489-da78-80a8e7701aa5
+- client-fingerprint: chrome
+  name: HK_speednode_0025
+  port: 443
+  reality-opts:
+    public-key: flIlSQ8NWZl0ofim794-EaQhz2OnH1hN7imrQAPheRY
+    short-id: '!!str 53ba1e37'
+  server: 213.176.94.129
+  servername: www.amazon.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 81e9e522-2efd-4709-996d-74e46f4edaf8
