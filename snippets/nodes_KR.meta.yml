@@ -1,9 +1,11 @@
 proxies:
 - cipher: aes-256-cfb
+  client-fingerprint: chrome
   name: KR_speednode_0035
   password: qwerREWQ@@
   port: 4652
   server: 218.237.185.230
+  tfo: false
   type: ss
   udp: true
 - name: KR_speednode_0036
