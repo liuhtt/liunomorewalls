@@ -1158,6 +1158,16 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: '🇱🇷@V2RayyNGvpn🇱🇷همه اوپراتور ه... #7'
+  obfs: salamander
+  obfs-password: MiraCLeOPV2RayyNGvpntheBestt
+  password: oiU5QZYfP2
+  port: 8443
+  server: 138.124.60.198
+  skip-cert-verify: true
+  sni: cdnjs.cloudflare.com
+  tls: false
+  type: hysteria2
 - name: '@Daily_Configs #19'
   password: zanzendegiazadi
   port: 443
