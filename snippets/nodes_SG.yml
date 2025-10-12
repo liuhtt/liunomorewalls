@@ -1,6 +1,33 @@
 proxies:
 - client-fingerprint: chrome
-  name: 新加坡|@ripaojiedian
+  name: 🇸🇬 新加坡|@ripaojiedian
+  password: 253bc477d4e43c209f2d427272968280
+  port: 2173
+  server: 36.156.102.84
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇸🇬 新加坡2|@ripaojiedian
+  password: 253bc477d4e43c209f2d427272968280
+  port: 5321
+  server: 36.156.102.84
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡3|@ripaojiedian
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  plugin: obfs
+  plugin-opts:
+    host: (TG @ripaojiedian)32cf132:178330
+    mode: tls
+  port: 2377
+  server: 5.44.249.43
+  tfo: false
+  type: ss
+- name: 新加坡|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 2283
@@ -8,8 +35,7 @@ proxies:
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- client-fingerprint: chrome
-  name: 新加坡2|@ripaojiedian
+- name: 新加坡2|@ripaojiedian
   network: tcp
   password: 253bc477d4e43c209f2d427272968280
   port: 5041
@@ -19,14 +45,11 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  client-fingerprint: chrome
   name: 新加坡3|@ripaojiedian
   network: ws
   port: '443'
   server: node4.rtxconfigz.com
   servername: node4.rtxconfigz.com
-  skip-cert-verify: false
-  tfo: false
   tls: true
   type: vmess
   uuid: 44e57485-eccc-46ef-808f-cd17ac810018
@@ -34,19 +57,6 @@ proxies:
     headers:
       Host: node4.rtxconfigz.com
     path: /@Malinda6104
-- name: SG_speednode_0018
-  network: ws
-  password: wb6368
-  port: 2087
-  server: 92.243.75.49
-  skip-cert-verify: false
-  sni: hsdgbuys.pages.dev
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: hsdgbuys.pages.dev
-    path: /
 - cipher: chacha20-ietf-poly1305
   name: SG_speednode_0019
   password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
