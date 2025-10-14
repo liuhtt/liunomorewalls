@@ -649,7 +649,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #20'
+- name: '@Daily_Configs #17'
   password: 2b67ONZROv+fRVMxB94BSw==
   port: 443
   server: 5.231.70.79
@@ -1004,6 +1004,84 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: '@sunflowerplato #1'
+  obfs: salamander
+  obfs-password: JBPVtqk1kMBGleBcLZ
+  password: df36ace8-640b-42bb-8169-198901af6d9e
+  port: 46129
+  server: 185.184.68.7.sslip.io
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '🇺🇲@FreakConfig #2 #1'
+  password: dongtaiwang.com
+  port: 22222
+  server: 208.87.243.187
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 'Join -> Telegram: @V2Gatee'
+  password: dongtaiwang.com
+  port: 5355
+  server: 51.159.111.32
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 'telegram-@ISVvpn #2 #1'
+  password: f872db91-57c2-41c7-aad0-561b4cb674bf
+  port: 25684
+  server: us-nb-01.linlujs.pw
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '@Daily_Configs #17 #1'
+  obfs: salamander
+  obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
+  password: joindailyconfigschanel
+  port: 443
+  server: 103.249.133.79
+  skip-cert-verify: true
+  sni: microsoft.com
+  tls: false
+  type: hysteria2
+- name: '@Daily_Configs #18'
+  password: miaoge110
+  port: 40112
+  server: 45.58.38.153
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 'Tel:@Daily_Configs #1'
+  obfs: salamander
+  obfs-password: fQ0ZDCeRt1SyOHAUx2TToTBPkMfEXuTf
+  password: perspoliszibatarineshghjahan
+  port: 443
+  server: 80.85.241.237
+  skip-cert-verify: true
+  sni: stackoverflow.com
+  tls: false
+  type: hysteria2
+- name: 'Telegram: @Daily_Configs #1'
+  obfs: salamander
+  obfs-password: fQ0ZDCeRt1SyOHAUx2TToTBPkMfEXuTf
+  password: theredarmy
+  port: 443
+  server: 80.85.241.237
+  skip-cert-verify: true
+  sni: stackoverflow.com
+  tls: false
+  type: hysteria2
+- name: '@Daily_Configs #19'
+  password: zanzendegiazadi
+  port: 443
+  server: 103.249.133.79
+  skip-cert-verify: true
+  sni: ubuntu.com
+  tls: false
+  type: hysteria2
 - name: '@Daily_Configs #13 #1'
   obfs: salamander
   obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
@@ -1032,84 +1110,6 @@ proxies:
   server: 103.249.133.79
   skip-cert-verify: true
   sni: microsoft.com
-  tls: false
-  type: hysteria2
-- name: '@sunflowerplato #1'
-  obfs: salamander
-  obfs-password: JBPVtqk1kMBGleBcLZ
-  password: df36ace8-640b-42bb-8169-198901af6d9e
-  port: 46129
-  server: 185.184.68.7.sslip.io
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '🇺🇲@FreakConfig #2 #1'
-  password: dongtaiwang.com
-  port: 22222
-  server: 208.87.243.187
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 'Join -> Telegram: @V2Gatee #1'
-  password: dongtaiwang.com
-  port: 5355
-  server: 51.159.111.32
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 'telegram-@ISVvpn #2 #1'
-  password: f872db91-57c2-41c7-aad0-561b4cb674bf
-  port: 25684
-  server: us-nb-01.linlujs.pw
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs #17 #1'
-  obfs: salamander
-  obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
-  password: joindailyconfigschanel
-  port: 443
-  server: 103.249.133.79
-  skip-cert-verify: true
-  sni: microsoft.com
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs #18 #1'
-  password: miaoge110
-  port: 40112
-  server: 45.58.38.153
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 'Tel:@Daily_Configs #1'
-  obfs: salamander
-  obfs-password: fQ0ZDCeRt1SyOHAUx2TToTBPkMfEXuTf
-  password: perspoliszibatarineshghjahan
-  port: 443
-  server: 80.85.241.237
-  skip-cert-verify: true
-  sni: stackoverflow.com
-  tls: false
-  type: hysteria2
-- name: 'Telegram: @Daily_Configs #1'
-  obfs: salamander
-  obfs-password: fQ0ZDCeRt1SyOHAUx2TToTBPkMfEXuTf
-  password: theredarmy
-  port: 443
-  server: 80.85.241.237
-  skip-cert-verify: true
-  sni: stackoverflow.com
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs #19 #1'
-  password: zanzendegiazadi
-  port: 443
-  server: 103.249.133.79
-  skip-cert-verify: true
-  sni: ubuntu.com
   tls: false
   type: hysteria2
 - alterId: 2
