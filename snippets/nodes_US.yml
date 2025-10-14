@@ -1,4 +1,22 @@
 proxies:
+- client-fingerprint: chrome
+  name: '美国|@ripaojiedian #1'
+  network: tcp
+  password: e9368912c4ed6046dca6949229cbff02
+  port: 24673
+  server: 36.156.102.84
+  skip-cert-verify: true
+  sni: fe2.update.microsoft.com
+  type: trojan
+- client-fingerprint: chrome
+  name: '美国2|@ripaojiedian #1'
+  network: tcp
+  password: e9368912c4ed6046dca6949229cbff02
+  port: 2381
+  server: 36.156.102.84
+  skip-cert-verify: true
+  sni: fe2.update.microsoft.com
+  type: trojan
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 美国CloudFla...
@@ -67,21 +85,3 @@ proxies:
     headers:
       Host: server32.beheshtbaneh.com
     path: /
-- client-fingerprint: chrome
-  name: 美国|@ripaojiedian
-  network: tcp
-  password: e9368912c4ed6046dca6949229cbff02
-  port: 24673
-  server: 36.156.102.84
-  skip-cert-verify: true
-  sni: fe2.update.microsoft.com
-  type: trojan
-- client-fingerprint: chrome
-  name: 美国2|@ripaojiedian
-  network: tcp
-  password: e9368912c4ed6046dca6949229cbff02
-  port: 2381
-  server: 36.156.102.84
-  skip-cert-verify: true
-  sni: fe2.update.microsoft.com
-  type: trojan

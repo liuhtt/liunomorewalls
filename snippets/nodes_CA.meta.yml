@@ -1,5 +1,5 @@
 proxies:
-- name: 🔐 @AblNet7 🇨🇦 机场推荐
+- name: '🔐 @AblNet7 🇨🇦 机场推荐 #1'
   password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
   port: 45979
   server: 150.230.28.100
@@ -9,7 +9,7 @@ proxies:
   type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: CA_speednode_0002
+  name: 'CA_speednode_0002 #1'
   port: 42557
   reality-opts:
     public-key: LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo
