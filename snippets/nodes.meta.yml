@@ -634,7 +634,7 @@ proxies:
   sni: apple.com
   type: hysteria
   up: 1000
-- name: 🇨🇦@FreakConfig
+- name: '🇨🇦@FreakConfig #1'
   password: 2429bee3-e0c1-47dd-b420-75e6512b184b
   port: 30300
   server: 129.153.59.26
@@ -690,7 +690,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #1 #1'
+- name: '@Daily_Configs #2 #1'
   password: 5f4ba37a-bb3c-4f8e-962e-850f624ad131
   port: 54265
   server: banmabanmabanmabanmabanmabanma2.wanlidag.top
@@ -800,7 +800,7 @@ proxies:
   sni: xjp2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #4 #1'
+- name: '@Daily_Configs #5 #1'
   password: 790e385a-7b0a-47bd-8d2a-254e6a12c2ca
   port: 37771
   server: xjp1.xiaohuolongjc.top
@@ -932,7 +932,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #8 #1'
+- name: '@Daily_Configs #10 #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1019,7 +1019,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #13 #1'
+- name: '@Daily_Configs #14 #1'
   password: miaoge110
   port: 40112
   server: 45.58.38.153
@@ -1047,22 +1047,12 @@ proxies:
   sni: stackoverflow.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #14 #1'
+- name: '@Daily_Configs #15 #1'
   password: zanzendegiazadi
   port: 443
   server: 103.249.133.79
   skip-cert-verify: true
   sni: ubuntu.com
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs #10 #1'
-  obfs: salamander
-  obfs-password: LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS
-  password: biadailyconfigs
-  port: 443
-  server: 103.249.133.79
-  skip-cert-verify: true
-  sni: microsoft.com
   tls: false
   type: hysteria2
 - alterId: 2
