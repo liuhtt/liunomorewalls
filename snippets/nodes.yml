@@ -716,14 +716,13 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: 'CN_speednode_0002 #1'
+- name: CN_speednode_0002
   password: e531d1bc-a56f-4e1a-a295-1442369a19c1
   port: 26004
   server: e4d7a1c2f3b80976a5e2c1d4b3f0a987.1kmei.com
   skip-cert-verify: true
   sni: www.bilibili.com
   type: trojan
-  udp: true
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 印度  2
@@ -911,8 +910,49 @@ proxies:
   server: 57.129.140.88
   tfo: false
   type: ss
+- alterId: 2
+  cipher: auto
+  name: HK_speednode_0004
+  network: ws
+  port: 80
+  server: hkt.gotochinatown.net
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
+  ws-opts:
+    headers:
+      Host: hkt.gotochinatown.net
+    path: /
+- alterId: 2
+  cipher: auto
+  name: HK_speednode_0005
+  network: ws
+  port: 80
+  server: hkt.gotochinatown.net
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
+- alterId: 0
+  cipher: auto
+  http-opts:
+    method: GET
+    path:
+    - /
+  name: HK_speednode_0006
+  network: http
+  port: 31212
+  server: 47.242.90.210
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 3a4271fb-2718-4489-da78-80a8e7701aa5
 - cipher: chacha20-ietf-poly1305
-  name: SG_speednode_0008
+  name: SG_speednode_0010
   password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
   plugin: obfs
   plugin-opts:
