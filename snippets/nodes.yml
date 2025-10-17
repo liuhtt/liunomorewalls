@@ -608,112 +608,6 @@ proxies:
     headers:
       Host: www.47876202.xyz
     path: /path/191019072927
-- alterId: 2
-  cipher: auto
-  name: '香港|@ripaojiedian #1'
-  network: ws
-  port: '30809'
-  server: v9.heduian.link
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  ws-opts:
-    headers:
-      Host: baidu.com
-    path: /oooo
-- alterId: 0
-  cipher: none
-  name: '香港3|@ripaojiedian #1'
-  network: ws
-  port: '41199'
-  server: 38.55.106.62
-  servername: hk-vmiss-n4.nebulacloud.win
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vmess
-  uuid: e18650e9-264b-4bf7-bbce-d846642dcf26
-  ws-opts:
-    headers:
-      Host: hk-vmiss-n4.nebulacloud.win
-    path: /hk-vmiss-n4/getData
-- name: '香港4|@ripaojiedian #1'
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 443
-  server: 58.152.30.87
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- alterId: 0
-  cipher: auto
-  name: '香港5|@ripaojiedian #1'
-  network: tcp
-  port: '38901'
-  server: 103.224.80.42
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 230938d9-ae9d-49e7-b3cb-9f44168f89e8
-- name: '香港6|@ripaojiedian #1'
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 443
-  server: 203.198.123.249
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- name: '日本2|@ripaojiedian #1'
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 316
-  server: 160.16.106.144
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- name: '日本3|@ripaojiedian #1'
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 1331
-  server: 160.16.106.144
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- name: '新加坡|@ripaojiedian #1'
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 5041
-  server: 153.121.56.122
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- name: '新加坡2|@ripaojiedian #1'
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 5321
-  server: 153.121.56.122
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- name: '美国|@ripaojiedian #1'
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 2381
-  server: 160.16.106.144
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- name: '美国2|@ripaojiedian #1'
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 2467
-  server: 160.16.106.144
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 印度  2
@@ -839,14 +733,30 @@ proxies:
       Host: server32.beheshtbaneh.com
     path: /
 - cipher: aes-256-cfb
-  name: 'tg频道:@ripaojiedian #1'
+  name: tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
   server: 16.176.178.192
   tfo: false
   type: ss
+- alterId: 2
+  cipher: auto
+  name: 香港|@ripaojiedian
+  network: ws
+  port: '30809'
+  server: v9.heduian.link
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  ws-opts:
+    headers:
+      Host: baidu.com
+    path: /oooo
 - cipher: aes-256-gcm
-  name: '🇭🇰 香港2|@ripaojiedian #1'
+  name: 🇭🇰 香港2|@ripaojiedian
   password: ccf426f1fe78
   plugin: v2ray-plugin
   plugin-opts:
@@ -861,8 +771,32 @@ proxies:
   tfo: false
   type: ss
 - alterId: 0
+  cipher: none
+  name: 香港3|@ripaojiedian
+  network: ws
+  port: '41199'
+  server: 38.55.106.62
+  servername: hk-vmiss-n4.nebulacloud.win
+  skip-cert-verify: false
+  tfo: false
+  tls: true
+  type: vmess
+  uuid: e18650e9-264b-4bf7-bbce-d846642dcf26
+  ws-opts:
+    headers:
+      Host: hk-vmiss-n4.nebulacloud.win
+    path: /hk-vmiss-n4/getData
+- name: 香港4|@ripaojiedian
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 443
+  server: 58.152.30.87
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- alterId: 0
   cipher: auto
-  name: '🇭🇰 香港5|@ripaojiedian #1'
+  name: 🇭🇰 香港5|@ripaojiedian
   port: 38901
   server: 103.224.80.42
   skip-cert-verify: false
@@ -870,13 +804,53 @@ proxies:
   tls: false
   type: vmess
   uuid: 230938d9-ae9d-49e7-b3cb-9f44168f89e8
+- name: 香港6|@ripaojiedian
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 443
+  server: 203.198.123.249
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
 - cipher: chacha20-ietf
-  name: '🇭🇰 香港7|@ripaojiedian #1'
+  name: 🇭🇰 香港7|@ripaojiedian
   password: asd123456
   port: 8388
   server: 103.149.183.154
   tfo: false
   type: ss
+- name: 日本2|@ripaojiedian
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 316
+  server: 160.16.106.144
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
+- name: 日本3|@ripaojiedian
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 1331
+  server: 160.16.106.144
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
+- name: 新加坡|@ripaojiedian
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 5041
+  server: 153.121.56.122
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
+- name: 新加坡2|@ripaojiedian
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 5321
+  server: 153.121.56.122
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
 - cipher: chacha20-ietf-poly1305
   name: SG_speednode_0040
   password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
@@ -891,7 +865,7 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '🇸🇬 新加坡4|@ripaojiedian #1'
+  name: 🇸🇬 新加坡4|@ripaojiedian
   password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
   plugin: obfs
   plugin-opts:
@@ -902,7 +876,7 @@ proxies:
   tfo: false
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '🇸🇬 新加坡5|@ripaojiedian #1'
+  name: 🇸🇬 新加坡5|@ripaojiedian
   password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
   plugin: obfs
   plugin-opts:
@@ -913,19 +887,45 @@ proxies:
   tfo: false
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: '🇸🇬 新加坡6|@ripaojiedian #1'
+  name: 🇸🇬 新加坡6|@ripaojiedian
   password: X2UQXuTGxwxE1ZMaTQwtxS
   port: 60523
   server: 174.138.29.1
   tfo: false
   type: ss
+- name: 美国|@ripaojiedian
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 2381
+  server: 160.16.106.144
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
+- name: 美国2|@ripaojiedian
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 2467
+  server: 160.16.106.144
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
 - cipher: aes-256-cfb
-  name: '🇻🇳 越南|@ripaojiedian #1'
+  name: 🇻🇳 越南|@ripaojiedian
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   port: 38388
   server: 103.186.154.234
   tfo: false
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 香港5|@ripaojiedian
+  network: tcp
+  port: '38901'
+  server: 103.224.80.42
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 230938d9-ae9d-49e7-b3cb-9f44168f89e8
 - cipher: chacha20-ietf-poly1305
   name: SG_speednode_0041
   password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
