@@ -1,4 +1,17 @@
 proxies:
+- name: TW_speednode_0035
+  network: ws
+  port: 443
+  server: 167.179.27.92
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /Telegram🇨🇳@WangCai2/?ed=2560security=tls
 - cipher: chacha20-ietf-poly1305
   name: TW_speednode_0029
   password: add8049a-647b-43fc-8de1-97b9261c6be5
@@ -41,7 +54,7 @@ proxies:
   server: 118.170.222.232
   type: ss
   udp: true
-- name: TW_speednode_0035
+- name: 'TW_speednode_0035 #1'
   network: ws
   port: 443
   server: 167.179.27.92
