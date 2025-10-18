@@ -634,7 +634,7 @@ proxies:
   sni: apple.com
   type: hysteria
   up: 1000
-- name: '@Mr_Config_Group✌️'
+- name: '@Mr_Config_Group✌️ #1'
   obfs: salamander
   obfs-password: xFGh9dsyreJV9sMs1RUnFbwRdon
   password: 10822856-7452-43ec-b35b-6f24ea33530f
@@ -644,7 +644,7 @@ proxies:
   sni: chervhill.hajalii.com
   tls: false
   type: hysteria2
-- name: 🇨🇦@FreakConfig
+- name: '🇨🇦@FreakConfig #1'
   password: 2429bee3-e0c1-47dd-b420-75e6512b184b
   port: 30300
   server: 129.153.59.26
@@ -652,7 +652,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@IRAN_V2RAY1'
+- name: '@IRAN_V2RAY1 #7'
   password: 2429bee3-e0c1-47dd-b420-75e6512b184b
   port: 30300
   server: 40.233.82.111
@@ -660,7 +660,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs'
+- name: '@Daily_Configs #15'
   password: 2b67ONZROv+fRVMxB94BSw==
   port: 443
   server: 5.231.70.79
@@ -668,7 +668,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 🇩🇪@FreakConfig
+- name: '🇩🇪@FreakConfig #3'
   password: 30c075af-9555-4671-b70e-43e3cfb2e707
   port: 7009
   server: 31.57.241.25
@@ -676,7 +676,7 @@ proxies:
   sni: d.eans.top
   tls: false
   type: hysteria2
-- name: '🇩🇪@FreakConfig #1'
+- name: '🇩🇪@FreakConfig #1 #1'
   password: 30c075af-9555-4671-b70e-43e3cfb2e707
   port: 7009
   server: d.eans.top
@@ -684,7 +684,7 @@ proxies:
   sni: d.eans.top
   tls: false
   type: hysteria2
-- name: All--@IRAN_V2RAY1
+- name: 'All--@IRAN_V2RAY1 #1'
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
   server: de.eyucdn.xyz
@@ -692,7 +692,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #2'
+- name: '@Daily_Configs #2 #1'
   password: 5f4ba37a-bb3c-4f8e-962e-850f624ad131
   port: 54265
   server: banmabanmabanmabanmabanmabanma2.wanlidag.top
@@ -700,7 +700,7 @@ proxies:
   sni: banmabanmabanmabanmabanmabanma2.wanlidag.top
   tls: false
   type: hysteria2
-- name: 🇳🇱@FreakConfig
+- name: '🇳🇱@FreakConfig #6'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c
@@ -710,7 +710,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '🇳🇱@FreakConfig #1'
+- name: '🇳🇱@FreakConfig #1 #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c
@@ -720,7 +720,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '🇩🇪@FreakConfig #2'
+- name: '🇩🇪@FreakConfig #2 #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c
@@ -730,7 +730,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: 'MCi--@IRAN_V2RAY1 #3'
+- name: 'MCi--@IRAN_V2RAY1 #3 #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 5f89ac2a-b6d6-4c66-98d8-39c4d552138c
@@ -740,7 +740,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: WI-FI--@IRAN_V2RAY1
+- name: 'WI-FI--@IRAN_V2RAY1 #3'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: 5fbe139f-c1e0-4b92-bb3c-7f68035962c3
@@ -750,35 +750,35 @@ proxies:
   sni: hl.dport.top
   tls: false
   type: hysteria2
-- name: telegram-@ISVvpn
+- name: 'telegram-@ISVvpn #3'
   password: 6803bc9b-1157-431b-8f73-970a6deb741f
   port: 29854
   server: fra-nb-02.linlujs.pw
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: 'telegram-@ISVvpn #1'
+- name: 'telegram-@ISVvpn #1 #1'
   password: 682c7978-e3eb-44e0-924c-607144495681
   port: 24568
   server: fra-nb-01.linlujs.pw
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: DE-telegram-@ISVvpn  🌐 لوکیشن:...
+- name: 'DE-telegram-@ISVvpn  🌐 لوکیشن:... #1'
   password: 70197404-7b40-45e4-bb9c-8bc8995012ae
   port: 24568
   server: fra-nb-01.linlujs.pw
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: usa-telegram-@ISVvpn
+- name: 'usa-telegram-@ISVvpn #1'
   password: 70197404-7b40-45e4-bb9c-8bc8995012ae
   port: 25684
   server: us-nb-01.linlujs.pw
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: 'Channel id: @vpnserverrr🇺🇸'
+- name: 'Channel id: @vpnserverrr🇺🇸 #2'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: lsj3.mangshe.xyz
@@ -786,7 +786,7 @@ proxies:
   sni: lsj3.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 'Channel id: @vpnserverrr🇺🇸 #1'
+- name: 'Channel id: @vpnserverrr🇺🇸 #1 #1'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: mg1.mangshe.xyz
@@ -794,7 +794,7 @@ proxies:
   sni: mg1.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 'Channel id: @vpnserverrr🇸🇬'
+- name: 'Channel id: @vpnserverrr🇸🇬 #1'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2060
   server: xjp2.mangshe.xyz
@@ -802,7 +802,7 @@ proxies:
   sni: xjp2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #5'
+- name: '@Daily_Configs #5 #1'
   password: 790e385a-7b0a-47bd-8d2a-254e6a12c2ca
   port: 37771
   server: xjp1.xiaohuolongjc.top
@@ -810,7 +810,7 @@ proxies:
   sni: xjp1.xiaohuolongjc.top
   tls: false
   type: hysteria2
-- name: 💎کانفیگ های بیشتر در چنل تلگرا...
+- name: '💎کانفیگ های بیشتر در چنل تلگرا... #3'
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
   server: 77.223.214.193
@@ -818,7 +818,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '🇸🇪 - SE - @freeOnlineVPN #2'
+- name: '🇸🇪 - SE - @freeOnlineVPN #2 #1'
   obfs: salamander
   obfs-password: U1wBrYQyFm
   password: 80747420-96c4-4a2f-83e6-eea4e46beb09
@@ -828,7 +828,7 @@ proxies:
   sni: drhystuichdfy.samanidempire.org
   tls: false
   type: hysteria2
-- name: '🇸🇪 - SE - @freeOnlineVPN #4'
+- name: '🇸🇪 - SE - @freeOnlineVPN #4 #1'
   obfs: salamander
   obfs-password: U1wBrYQyFm
   password: 80747420-96c4-4a2f-83e6-eea4e46beb09
@@ -838,7 +838,7 @@ proxies:
   sni: drhystuichdfy.samanidempire.org
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #1'
+- name: '🇳🇱 - NL - @freeOnlineVPN #1 #1'
   obfs: salamander
   obfs-password: GdQ4bgvT8RFwuWi2
   password: 8864aa9f-7517-4fd5-aef1-32050eb3095d
@@ -848,7 +848,7 @@ proxies:
   sni: net2025.afsharidempire.uk
   tls: false
   type: hysteria2
-- name: 🔐 @AblNet7 🇺🇸 机场推荐
+- name: '🔐 @AblNet7 🇺🇸 机场推荐 #3'
   password: 8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6
   port: 3000
   server: 836902-20.9966661.xyz
@@ -856,7 +856,7 @@ proxies:
   sni: 836902-20.9966661.xyz
   tls: false
   type: hysteria2
-- name: 'All-@IRAN_V2RAY1 #1'
+- name: 'All-@IRAN_V2RAY1 #1 #1'
   obfs: salamander
   obfs-password: qBbeISsJ8AK48fZW
   password: 8da7bd17-70ab-472d-a925-cc827857dc35
@@ -866,7 +866,7 @@ proxies:
   sni: de.youyacloud.me
   tls: false
   type: hysteria2
-- name: '🔐 @AblNet7 🇺🇸 机场推荐 #1'
+- name: '🔐 @AblNet7 🇺🇸 机场推荐 #1 #1'
   password: 9772ecf2-6732-4bfb-a8b1-f48af577c76c
   port: 63979
   server: 113.192.61.19
@@ -874,7 +874,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '🇳🇱@FreakConfig #2'
+- name: '🇳🇱@FreakConfig #2 #1'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -884,7 +884,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: 'WI-FI--@IRAN_V2RAY1 #1'
+- name: 'WI-FI--@IRAN_V2RAY1 #1 #1'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -894,7 +894,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #3'
+- name: '🇳🇱 - NL - @freeOnlineVPN #3 #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -904,7 +904,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #5'
+- name: '🇳🇱 - NL - @freeOnlineVPN #5 #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -914,7 +914,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #8'
+- name: '🇳🇱 - NL - @freeOnlineVPN #8 #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -924,7 +924,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #11'
+- name: '🇳🇱 - NL - @freeOnlineVPN #11 #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -934,7 +934,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #13'
+- name: '🇳🇱 - NL - @freeOnlineVPN #13 #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -944,7 +944,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #15'
+- name: '🇳🇱 - NL - @freeOnlineVPN #15 #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -954,7 +954,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇬🇧 - GB - @freeOnlineVPN #1'
+- name: '🇬🇧 - GB - @freeOnlineVPN #1 #1'
   obfs: salamander
   obfs-password: khameniiko@smad@ret
   password: YwuvGJk36B
@@ -964,7 +964,7 @@ proxies:
   sni: kotlet.arshiacomplus.dpdns.org
   tls: false
   type: hysteria2
-- name: '🔐 @AblNet7 🇺🇸 机场推荐 #2'
+- name: '🔐 @AblNet7 🇺🇸 机场推荐 #2 #1'
   password: c232f411-96b5-4b07-b2f7-66a434725ffb
   port: 23891
   server: 108.165.213.197
@@ -972,14 +972,14 @@ proxies:
   sni: fus01.mistea.top
   tls: false
   type: hysteria2
-- name: '@sunflowerplato🌻'
+- name: '@sunflowerplato🌻 #2'
   password: c3054d61-c708-4594-9797-f50acd24de2a
   port: 443
   server: qing-kz.mxtn.net
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 🔐 @AblNet7 🇨🇦 机场推荐
+- name: '🔐 @AblNet7 🇨🇦 机场推荐 #1'
   password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
   port: 45979
   server: 150.230.28.100
@@ -987,7 +987,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@sunflowerplato'
+- name: '@sunflowerplato #1'
   obfs: salamander
   obfs-password: JBPVtqk1kMBGleBcLZ
   password: df36ace8-640b-42bb-8169-198901af6d9e
@@ -996,7 +996,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'WI-FI--@IRAN_V2RAY1 #2'
+- name: 'WI-FI--@IRAN_V2RAY1 #2 #1'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -1004,14 +1004,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'telegram-@ISVvpn #2'
+- name: 'telegram-@ISVvpn #2 #1'
   password: f872db91-57c2-41c7-aad0-561b4cb674bf
   port: 25684
   server: us-nb-01.linlujs.pw
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #14'
+- name: '@Daily_Configs #14 #1'
   password: miaoge110
   port: 40112
   server: 45.58.38.153
@@ -1019,7 +1019,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: Tel:@Daily_Configs
+- name: 'Tel:@Daily_Configs #1'
   obfs: salamander
   obfs-password: fQ0ZDCeRt1SyOHAUx2TToTBPkMfEXuTf
   password: perspoliszibatarineshghjahan
@@ -1029,7 +1029,7 @@ proxies:
   sni: stackoverflow.com
   tls: false
   type: hysteria2
-- name: 'Telegram: @Daily_Configs'
+- name: 'Telegram: @Daily_Configs #1'
   obfs: salamander
   obfs-password: fQ0ZDCeRt1SyOHAUx2TToTBPkMfEXuTf
   password: theredarmy
@@ -1039,6 +1039,506 @@ proxies:
   sni: stackoverflow.com
   tls: false
   type: hysteria2
+- alterId: 2
+  cipher: auto
+  name: '香港|@ripaojiedian #1'
+  network: ws
+  port: '30809'
+  server: v9.heduian.link
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  ws-opts:
+    headers:
+      Host: baidu.com
+    path: /oooo
+- name: '香港4|@ripaojiedian #1'
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 443
+  server: 58.152.30.92
+  skip-cert-verify: false
+  sni: www.nintendogames.net
+  type: trojan
+- name: '香港5|@ripaojiedian #1'
+  network: tcp
+  password: BxceQaOe
+  port: 4556
+  server: 36.151.195.112
+  skip-cert-verify: true
+  type: trojan
+- name: '日本2|@ripaojiedian #1'
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 1331
+  server: 160.16.131.243
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
+- name: '日本3|@ripaojiedian #1'
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 316
+  server: 160.16.131.243
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
+- name: '新加坡|@ripaojiedian #1'
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 5041
+  server: 153.121.41.97
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
+- name: '新加坡2|@ripaojiedian #1'
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 5321
+  server: 160.16.131.243
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
+- name: '美国|@ripaojiedian #1'
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 2381
+  server: 153.121.41.97
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
+- name: '美国2|@ripaojiedian #1'
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 2467
+  server: 153.121.41.97
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
+- flow: xtls-rprx-vision
+  name: 'CN_speednode_0002 #1'
+  port: 35248
+  reality-opts:
+    public-key: IGsSxC0wgn7wLy0NM0QN_yOREDKT_814Y_3_rbgDoTc
+    short-id: 'c8c0f951'
+  server: 59.36.143.125
+  servername: www.lamer.com.hk
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 823e8b29-7d63-4af6-92f0-f94623b7030c
+- name: 'CY_speednode_0003 #1'
+  port: 49868
+  reality-opts:
+    public-key: joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10
+    short-id: '6d638e'
+  server: 2.56.125.209
+  servername: yahoo.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: be015dd2-30b4-4fcf-a9ee-080c13ac13fb
+- name: 'CY_speednode_0004 #1'
+  port: 59997
+  reality-opts:
+    public-key: m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI
+    short-id: '816473be23c2'
+  server: 45.83.21.107
+  servername: yahoo.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: c3dd7afc-151f-44f6-8263-ad3c8420ae2f
+- name: 'GR_speednode_0010 #1'
+  port: 45448
+  reality-opts:
+    public-key: MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E
+    short-id: '958639bf55e679'
+  server: 94.131.8.19
+  servername: yahoo.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 96fcf8cc-535d-46c4-b8f9-76058df48e3b
+- name: 'HU_speednode_0011 #1'
+  port: 17267
+  reality-opts:
+    public-key: SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk
+    short-id: '4ae260'
+  server: 5.182.38.91
+  servername: yahoo.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1c7fcc38-e6be-43c5-875f-b8de2516b9f2
+- client-fingerprint: random
+  name: 'IL_speednode_0012 #1'
+  port: 28495
+  reality-opts:
+    public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ
+    short-id: '0ecc2c1392'
+  server: 77.91.74.189
+  servername: dl.google.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1
+- name: KR_speednode_0013
+  network: ws
+  port: 20880
+  server: 218.148.106.45
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: true
+  tls: false
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /telegram @freecodessecurity=tls
+- name: KR_speednode_0014
+  network: ws
+  port: 50001
+  server: 61.74.149.202
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /X@节点狂魔/?ed=2560fp=chrome
+- name: KR_speednode_0015
+  network: ws
+  port: 50001
+  server: 220.72.76.25
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /X@节点狂魔/?ed=2560fp=chrome
+- name: KR_speednode_0016
+  network: ws
+  port: 50001
+  server: 118.36.106.205
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /X@节点狂魔/?ed=2560fp=chrome
+- name: KR_speednode_0017
+  network: ws
+  port: 10019
+  server: 14.39.148.118
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /X@节点狂魔/?ed=2560fp=chrome
+- name: KR_speednode_0018
+  network: ws
+  port: 50001
+  server: 106.245.216.35
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /X@节点狂魔/?ed=2560fp=chrome
+- name: KR_speednode_0019
+  network: ws
+  port: 50001
+  server: 220.72.76.25
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /X@节点狂魔fp=chrome
+- name: KR_speednode_0020
+  network: ws
+  port: 50001
+  server: 118.36.106.205
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /X@节点狂魔fp=chrome
+- name: KR_speednode_0021
+  network: ws
+  port: 16030
+  server: 222.113.18.207
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /X@节点狂魔security=tls
+- name: KR_speednode_0022
+  network: ws
+  port: 50001
+  server: 61.74.149.202
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /X@节点狂魔fp=chrome
+- name: KR_speednode_0024
+  network: ws
+  port: 22577
+  server: 49.174.170.115
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /X@节点狂魔/?ed=2560fp=chrome
+- name: KR_speednode_0025
+  network: ws
+  port: 50000
+  server: 27.100.189.152
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: true
+  tls: false
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /telegram @freecodessecurity=tls
+- name: KR_speednode_0026
+  network: ws
+  port: 30067
+  server: 112.156.154.95
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: true
+  tls: false
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /x @节点狂魔security=tls
+- name: KR_speednode_0027
+  network: ws
+  port: 50001
+  server: 211.184.175.180
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: true
+  tls: false
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /telegram @freecodessecurity=tls
+- flow: xtls-rprx-vision
+  name: 'LB_speednode_0028 #1'
+  port: 443
+  reality-opts:
+    public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
+    short-id: 'e499f276e7bd6420'
+  server: 77.110.114.3
+  servername: hls-svod.itunes.apple.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: c80bbc09-837d-495f-bebc-3e8ac5dede41
+- name: 'MD_speednode_0029 #1'
+  port: 41360
+  reality-opts:
+    public-key: TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU
+    short-id: '1aab45'
+  server: 94.232.247.168
+  servername: yahoo.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e16a35ea-6715-4e75-9845-d20358bd0876
+- name: 'NL_speednode_0030 #1'
+  port: 16798
+  reality-opts:
+    public-key: UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU
+    short-id: '229b2a94'
+  server: 45.128.232.102
+  servername: yahoo.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 3691b39b-4aa7-4f68-8304-902e4734e2f4
+- name: RU_speednode_0032
+  network: ws
+  port: 2096
+  server: 188.42.145.253
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /Telegram@freecodes/?ed=2560security=tls
+- name: RU_speednode_0033
+  network: ws
+  port: 2096
+  server: 188.42.145.253
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560security=tls
+- name: RU_speednode_0034
+  network: ws
+  port: 2096
+  server: 188.42.145.253
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /freecodes@节点狂魔/?ed=2560security=tls
+- name: RU_speednode_0035
+  network: ws
+  port: 2096
+  server: 188.42.145.253
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /Telegram🇨🇳 @WangCai2 /?ed=2560security=tls
+- name: RU_speednode_0036
+  network: ws
+  port: 2096
+  server: 188.42.145.253
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /Telegram🇨🇳@WangCai2/?ed=2560security=tls
+- flow: xtls-rprx-vision
+  name: 'RU_speednode_0037 #1'
+  port: 443
+  reality-opts:
+    public-key: YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y
+  server: 5.181.171.10
+  servername: speed.cloudflare.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 49ed01ad-3bb4-204f-b0ff-a58f658fd618
+- flow: xtls-rprx-vision
+  name: 'RU_speednode_0038 #1'
+  port: 443
+  reality-opts:
+    public-key: YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y
+  server: 5.181.171.10
+  servername: speed.cloudflare.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: a0de1607-5b63-fab8-a759-9f98706b6125
+- name: RU_speednode_0039
+  network: ws
+  port: 2096
+  server: 188.42.145.253
+  servername: gaosir.unfeeling.sbs
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
+  ws-opts:
+    headers:
+      Host: gaosir.unfeeling.sbs
+    path: /security=tls
+- client-fingerprint: edge
+  flow: xtls-rprx-vision
+  name: 'US_speednode_0051 #1'
+  port: 10001
+  reality-opts:
+    public-key: T-5Ud3XMnRKHZ_iDiDh1DA-LcsMd_3j-fmD4OjUVgC4
+  server: 1002.952326.xyz
+  servername: www.python.org
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: c78e9094-6639-42cd-b917-cc96418f38a3
+- name: 'US_speednode_0054 #1'
+  network: ws
+  password: d0728e94-82c2-456b-b5d4-eeab540599df
+  port: 443
+  server: 172.67.192.215
+  skip-cert-verify: false
+  sni: joss.krikkrik.xyz
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: joss.krikkrik.xyz
+    path: /Free-VPN-CF-Geo-Project/AE5
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 印度  2
@@ -1164,30 +1664,14 @@ proxies:
       Host: server32.beheshtbaneh.com
     path: /
 - cipher: aes-256-cfb
-  name: tg频道:@ripaojiedian
+  name: 'tg频道:@ripaojiedian #1'
   password: amazonskr05
   port: 443
   server: 16.176.178.192
   tfo: false
   type: ss
-- alterId: 2
-  cipher: auto
-  name: 香港|@ripaojiedian
-  network: ws
-  port: '30809'
-  server: v9.heduian.link
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  ws-opts:
-    headers:
-      Host: baidu.com
-    path: /oooo
 - cipher: aes-256-gcm
-  name: 🇭🇰 香港2|@ripaojiedian
+  name: '🇭🇰 香港2|@ripaojiedian #1'
   password: ccf426f1fe78
   plugin: v2ray-plugin
   plugin-opts:
@@ -1201,53 +1685,6 @@ proxies:
   server: 103.103.245.158
   tfo: false
   type: ss
-- name: 香港4|@ripaojiedian
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 443
-  server: 58.152.30.92
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 香港5|@ripaojiedian
-  network: tcp
-  password: BxceQaOe
-  port: 4556
-  server: 36.151.195.112
-  skip-cert-verify: true
-  type: trojan
-- name: 日本2|@ripaojiedian
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 1331
-  server: 160.16.131.243
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- name: 日本3|@ripaojiedian
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 316
-  server: 160.16.131.243
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- name: 新加坡|@ripaojiedian
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 5041
-  server: 153.121.41.97
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- name: 新加坡2|@ripaojiedian
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 5321
-  server: 160.16.131.243
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
 - cipher: chacha20-ietf-poly1305
   name: SG_speednode_0040
   password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
@@ -1262,7 +1699,7 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 🇸🇬 新加坡4|@ripaojiedian
+  name: '🇸🇬 新加坡4|@ripaojiedian #1'
   password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
   plugin: obfs
   plugin-opts:
@@ -1273,7 +1710,7 @@ proxies:
   tfo: false
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 🇸🇬 新加坡5|@ripaojiedian
+  name: '🇸🇬 新加坡5|@ripaojiedian #1'
   password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
   plugin: obfs
   plugin-opts:
@@ -1283,22 +1720,6 @@ proxies:
   server: 5.44.249.42
   tfo: false
   type: ss
-- name: 美国|@ripaojiedian
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 2381
-  server: 153.121.41.97
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- name: 美国2|@ripaojiedian
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 2467
-  server: 153.121.41.97
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
 - name: CN_speednode_0001
   password: 80c9752a41
   port: 20443
@@ -1308,81 +1729,7 @@ proxies:
   type: http
   udp: true
   username: dd247fc262
-- flow: xtls-rprx-vision
-  name: CN_speednode_0002
-  port: 35248
-  reality-opts:
-    public-key: IGsSxC0wgn7wLy0NM0QN_yOREDKT_814Y_3_rbgDoTc
-    short-id: 'c8c0f951'
-  server: 59.36.143.125
-  servername: www.lamer.com.hk
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 823e8b29-7d63-4af6-92f0-f94623b7030c
-- name: CY_speednode_0003
-  port: 49868
-  reality-opts:
-    public-key: joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10
-    short-id: '6d638e'
-  server: 2.56.125.209
-  servername: yahoo.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: be015dd2-30b4-4fcf-a9ee-080c13ac13fb
-- name: CY_speednode_0004
-  port: 59997
-  reality-opts:
-    public-key: m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI
-    short-id: '816473be23c2'
-  server: 45.83.21.107
-  servername: yahoo.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: c3dd7afc-151f-44f6-8263-ad3c8420ae2f
-- name: GR_speednode_0010
-  port: 45448
-  reality-opts:
-    public-key: MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E
-    short-id: '958639bf55e679'
-  server: 94.131.8.19
-  servername: yahoo.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 96fcf8cc-535d-46c4-b8f9-76058df48e3b
-- name: HU_speednode_0011
-  port: 17267
-  reality-opts:
-    public-key: SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk
-    short-id: '4ae260'
-  server: 5.182.38.91
-  servername: yahoo.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 1c7fcc38-e6be-43c5-875f-b8de2516b9f2
-- client-fingerprint: random
-  name: IL_speednode_0012
-  port: 28495
-  reality-opts:
-    public-key: KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ
-    short-id: '0ecc2c1392'
-  server: 77.91.74.189
-  servername: dl.google.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 7e296434-2d17-48d3-928d-19eaa34aecb1
-- name: KR_speednode_0013
+- name: 'KR_speednode_0013 #1'
   network: ws
   port: 20880
   server: 218.148.106.45
@@ -1396,7 +1743,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /telegram @freecodes
-- name: KR_speednode_0014
+- name: 'KR_speednode_0014 #1'
   network: ws
   port: 50001
   server: 61.74.149.202
@@ -1410,7 +1757,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /X@节点狂魔/?ed=2560
-- name: KR_speednode_0015
+- name: 'KR_speednode_0015 #1'
   network: ws
   port: 50001
   server: 220.72.76.25
@@ -1424,7 +1771,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /X@节点狂魔/?ed=2560
-- name: KR_speednode_0016
+- name: 'KR_speednode_0016 #1'
   network: ws
   port: 50001
   server: 118.36.106.205
@@ -1438,7 +1785,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /X@节点狂魔/?ed=2560
-- name: KR_speednode_0017
+- name: 'KR_speednode_0017 #1'
   network: ws
   port: 10019
   server: 14.39.148.118
@@ -1452,7 +1799,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /X@节点狂魔/?ed=2560
-- name: KR_speednode_0018
+- name: 'KR_speednode_0018 #1'
   network: ws
   port: 50001
   server: 106.245.216.35
@@ -1466,7 +1813,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /X@节点狂魔/?ed=2560
-- name: KR_speednode_0019
+- name: 'KR_speednode_0019 #1'
   network: ws
   port: 50001
   server: 220.72.76.25
@@ -1480,7 +1827,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /X@节点狂魔
-- name: KR_speednode_0020
+- name: 'KR_speednode_0020 #1'
   network: ws
   port: 50001
   server: 118.36.106.205
@@ -1494,7 +1841,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /X@节点狂魔
-- name: KR_speednode_0021
+- name: 'KR_speednode_0021 #1'
   network: ws
   port: 16030
   server: 222.113.18.207
@@ -1508,7 +1855,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /X@节点狂魔
-- name: KR_speednode_0022
+- name: 'KR_speednode_0022 #1'
   network: ws
   port: 50001
   server: 61.74.149.202
@@ -1531,7 +1878,7 @@ proxies:
   type: http
   udp: true
   username: test
-- name: KR_speednode_0024
+- name: 'KR_speednode_0024 #1'
   network: ws
   port: 22577
   server: 49.174.170.115
@@ -1545,7 +1892,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /X@节点狂魔/?ed=2560
-- name: KR_speednode_0025
+- name: 'KR_speednode_0025 #1'
   network: ws
   port: 50000
   server: 27.100.189.152
@@ -1559,7 +1906,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /telegram @freecodes
-- name: KR_speednode_0026
+- name: 'KR_speednode_0026 #1'
   network: ws
   port: 30067
   server: 112.156.154.95
@@ -1573,7 +1920,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /x @节点狂魔
-- name: KR_speednode_0027
+- name: 'KR_speednode_0027 #1'
   network: ws
   port: 50001
   server: 211.184.175.180
@@ -1587,44 +1934,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /telegram @freecodes
-- flow: xtls-rprx-vision
-  name: LB_speednode_0028
-  port: 443
-  reality-opts:
-    public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
-    short-id: 'e499f276e7bd6420'
-  server: 77.110.114.3
-  servername: hls-svod.itunes.apple.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: c80bbc09-837d-495f-bebc-3e8ac5dede41
-- name: MD_speednode_0029
-  port: 41360
-  reality-opts:
-    public-key: TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU
-    short-id: '1aab45'
-  server: 94.232.247.168
-  servername: yahoo.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: e16a35ea-6715-4e75-9845-d20358bd0876
-- name: NL_speednode_0030
-  port: 16798
-  reality-opts:
-    public-key: UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU
-    short-id: '229b2a94'
-  server: 45.128.232.102
-  servername: yahoo.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 3691b39b-4aa7-4f68-8304-902e4734e2f4
-- name: RU_speednode_0032
+- name: 'RU_speednode_0032 #1'
   network: ws
   port: 2096
   server: 188.42.145.253
@@ -1638,7 +1948,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /Telegram@freecodes/?ed=2560
-- name: RU_speednode_0033
+- name: 'RU_speednode_0033 #1'
   network: ws
   port: 2096
   server: 188.42.145.253
@@ -1652,7 +1962,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560
-- name: RU_speednode_0034
+- name: 'RU_speednode_0034 #1'
   network: ws
   port: 2096
   server: 188.42.145.253
@@ -1666,7 +1976,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /freecodes@节点狂魔/?ed=2560
-- name: RU_speednode_0035
+- name: 'RU_speednode_0035 #1'
   network: ws
   port: 2096
   server: 188.42.145.253
@@ -1680,7 +1990,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /Telegram🇨🇳 @WangCai2 /?ed=2560
-- name: RU_speednode_0036
+- name: 'RU_speednode_0036 #1'
   network: ws
   port: 2096
   server: 188.42.145.253
@@ -1694,31 +2004,7 @@ proxies:
     headers:
       Host: gaosir.unfeeling.sbs
     path: /Telegram🇨🇳@WangCai2/?ed=2560
-- flow: xtls-rprx-vision
-  name: RU_speednode_0037
-  port: 443
-  reality-opts:
-    public-key: YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y
-  server: 5.181.171.10
-  servername: speed.cloudflare.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 49ed01ad-3bb4-204f-b0ff-a58f658fd618
-- flow: xtls-rprx-vision
-  name: RU_speednode_0038
-  port: 443
-  reality-opts:
-    public-key: YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y
-  server: 5.181.171.10
-  servername: speed.cloudflare.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: a0de1607-5b63-fab8-a759-9f98706b6125
-- name: RU_speednode_0039
+- name: 'RU_speednode_0039 #1'
   network: ws
   port: 2096
   server: 188.42.145.253
@@ -1779,32 +2065,6 @@ proxies:
   server: 114.46.121.31
   type: ss
   udp: true
-- client-fingerprint: edge
-  flow: xtls-rprx-vision
-  name: US_speednode_0051
-  port: 10001
-  reality-opts:
-    public-key: T-5Ud3XMnRKHZ_iDiDh1DA-LcsMd_3j-fmD4OjUVgC4
-  server: 1002.952326.xyz
-  servername: www.python.org
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: c78e9094-6639-42cd-b917-cc96418f38a3
-- name: US_speednode_0054
-  network: ws
-  password: d0728e94-82c2-456b-b5d4-eeab540599df
-  port: 443
-  server: 172.67.192.215
-  skip-cert-verify: false
-  sni: joss.krikkrik.xyz
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: joss.krikkrik.xyz
-    path: /Free-VPN-CF-Geo-Project/AE5
 - cipher: aes-256-cfb
   name: VN_speednode_0055
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
