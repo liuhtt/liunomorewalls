@@ -2,7 +2,7 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: '香港|@ripaojiedian #1'
+  name: 香港|@ripaojiedian
   network: ws
   port: '30809'
   server: v9.heduian.link
@@ -16,27 +16,9 @@ proxies:
     headers:
       Host: baidu.com
     path: /oooo
-- client-fingerprint: chrome
-  name: '香港4|@ripaojiedian #1'
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 443
-  server: 58.152.30.92
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- client-fingerprint: chrome
-  name: CN_speednode_0004
-  network: tcp
-  password: BxceQaOe
-  port: 4556
-  server: 36.151.195.112
-  skip-cert-verify: true
-  type: trojan
-  udp: true
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: '🇭🇰 香港2|@ripaojiedian #1'
+  name: 🇭🇰 香港2|@ripaojiedian
   password: ccf426f1fe78
   plugin: v2ray-plugin
   plugin-opts:
@@ -50,45 +32,20 @@ proxies:
   server: 103.103.245.158
   tfo: false
   type: ss
-- name: HK_speednode_0013
-  network: ws
+- client-fingerprint: chrome
+  name: 香港4|@ripaojiedian
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
   port: 443
-  server: 202.85.53.74
-  servername: gaosir.unfeeling.sbs
+  server: 58.152.30.92
   skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-  ws-opts:
-    headers:
-      Host: gaosir.unfeeling.sbs
-    path: /X@节点狂魔/?ed=2560
-- name: HK_speednode_0014
-  network: ws
-  port: 443
-  server: 202.85.53.74
-  servername: gaosir.unfeeling.sbs
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-  ws-opts:
-    headers:
-      Host: gaosir.unfeeling.sbs
-    path: /Telegram🇨🇳@WangCai2/?ed=2560
-- name: HK_speednode_0015
-  network: ws
-  port: 35951
-  server: 36.50.90.241
-  servername: gaosir.unfeeling.sbs
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: f61a4285-7264-4d07-9408-7b9ba1922c26
-  ws-opts:
-    headers:
-      Host: gaosir.unfeeling.sbs
-    path: /Telegram@freecodes/?ed=2560
+  sni: www.nintendogames.net
+  type: trojan
+- client-fingerprint: chrome
+  name: 香港5|@ripaojiedian
+  network: tcp
+  password: BxceQaOe
+  port: 4556
+  server: 36.151.195.112
+  skip-cert-verify: true
+  type: trojan

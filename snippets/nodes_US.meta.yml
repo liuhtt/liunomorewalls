@@ -1,5 +1,5 @@
 proxies:
-- name: 'Channel id: @vpnserverrr🇺🇸 #2'
+- name: 'Channel id: @vpnserverrr🇺🇸'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: lsj3.mangshe.xyz
@@ -7,7 +7,7 @@ proxies:
   sni: lsj3.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 'Channel id: @vpnserverrr🇺🇸 #1 #1'
+- name: 'Channel id: @vpnserverrr🇺🇸 #1'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: mg1.mangshe.xyz
@@ -15,7 +15,7 @@ proxies:
   sni: mg1.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '🔐 @AblNet7 🇺🇸 机场推荐 #3'
+- name: 🔐 @AblNet7 🇺🇸 机场推荐
   password: 8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6
   port: 3000
   server: 836902-20.9966661.xyz
@@ -23,7 +23,7 @@ proxies:
   sni: 836902-20.9966661.xyz
   tls: false
   type: hysteria2
-- name: '🔐 @AblNet7 🇺🇸 机场推荐 #1 #1'
+- name: '🔐 @AblNet7 🇺🇸 机场推荐 #1'
   password: 9772ecf2-6732-4bfb-a8b1-f48af577c76c
   port: 63979
   server: 113.192.61.19
@@ -31,46 +31,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- client-fingerprint: chrome
-  name: '美国|@ripaojiedian #1'
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 2381
-  server: 153.121.41.97
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- client-fingerprint: chrome
-  name: '美国2|@ripaojiedian #1'
-  network: tcp
-  password: c53647f3153f784b3c695ffbe5fb43c0
-  port: 2467
-  server: 153.121.41.97
-  skip-cert-verify: true
-  sni: www.baidu.com
-  type: trojan
-- client-fingerprint: edge
-  flow: xtls-rprx-vision
-  name: US_speednode_0051
-  port: 10001
-  server: 1002.952326.xyz
-  servername: www.python.org
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: c78e9094-6639-42cd-b917-cc96418f38a3
-- name: US_speednode_0054
-  network: ws
-  password: d0728e94-82c2-456b-b5d4-eeab540599df
-  port: 443
-  server: 172.67.192.215
-  skip-cert-verify: false
-  sni: joss.krikkrik.xyz
-  type: trojan
-  ws-opts:
-    headers:
-      Host: joss.krikkrik.xyz
-    path: /Free-VPN-CF-Geo-Project/AE5
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 美国CloudFla...
@@ -139,7 +99,25 @@ proxies:
     headers:
       Host: server32.beheshtbaneh.com
     path: /
-- name: US_speednode_0095
+- client-fingerprint: chrome
+  name: 美国|@ripaojiedian
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 2381
+  server: 153.121.41.97
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
+- client-fingerprint: chrome
+  name: 美国2|@ripaojiedian
+  network: tcp
+  password: c53647f3153f784b3c695ffbe5fb43c0
+  port: 2467
+  server: 153.121.41.97
+  skip-cert-verify: true
+  sni: www.baidu.com
+  type: trojan
+- name: US_speednode_0036
   network: ws
   port: 2096
   server: 104.19.50.238
@@ -154,20 +132,7 @@ proxies:
       Host: gaosir.unfeeling.sbs
     path: /telegram🇨🇳@wangcai2/?ed=2560
 - client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: US_speednode_0096
-  port: 443
-  reality-opts:
-    public-key: O53KcL6eOfBmpyfB5rM9qPDI-ZCe8hhHgYzdsZZ0b2Q
-  server: 54.219.42.163
-  servername: dash.cloudflare.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: da640c05-1831-4c6f-a2c8-ff8ff9c18b0c
-- client-fingerprint: chrome
-  name: US_speednode_0097
+  name: US_speednode_0037
   network: ws
   port: 8443
   server: 104.20.2.221
@@ -182,44 +147,15 @@ proxies:
       Host: bycf.lzjnb.shop
     path: /?ed=2560
 - client-fingerprint: chrome
-  name: US_speednode_0098
-  network: ws
+  flow: xtls-rprx-vision
+  name: US_speednode_0038
   port: 443
-  server: asl-uwiisjjsjdjd-7665.pages.dev
-  servername: asl-uwiisjjsjdjd-7665.pages.dev
+  reality-opts:
+    public-key: O53KcL6eOfBmpyfB5rM9qPDI-ZCe8hhHgYzdsZZ0b2Q
+  server: 54.219.42.163
+  servername: dash.cloudflare.com
   skip-cert-verify: false
   tls: true
   type: vless
   udp: true
-  uuid: 0481141b-2807-48f9-8ebc-0b405d2f7d00
-  ws-opts:
-    headers:
-      Host: asl-uwiisjjsjdjd-7665.pages.dev
-    path: /evcszpmoerkdnesg?ed=2560
-- name: US_speednode_0099
-  network: ws
-  port: 80
-  server: 172.66.156.81
-  servername: websocket.network.www.speedtest.net.flutter.dev.russia.pyt.vegaskala.com.
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  udp: true
-  uuid: 2e48cc0c-284d-49b0-b7ad-b2f47be3650e
-  ws-opts:
-    headers:
-      Host: websocket.network.www.speedtest.net.flutter.dev.russia.pyt.vegaskala.com.
-    path: /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy
-- name: US_speednode_0100
-  network: ws
-  password: trojan
-  port: 8443
-  server: www.visa.com.sg
-  skip-cert-verify: false
-  sni: azadnet-f03.pages.dev
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: azadnet-f03.pages.dev
-    path: /?ed=2560
+  uuid: da640c05-1831-4c6f-a2c8-ff8ff9c18b0c

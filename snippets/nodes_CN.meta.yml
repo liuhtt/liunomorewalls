@@ -1,14 +1,4 @@
 proxies:
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: CN_speednode_0002
-  port: 35248
-  server: 59.36.143.125
-  servername: www.lamer.com.hk
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 823e8b29-7d63-4af6-92f0-f94623b7030c
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 广东省移动 7
@@ -23,7 +13,7 @@ proxies:
     headers:
       Host: data-us-v1.shwjfkw.cn
     path: /debian
-- name: CN_speednode_0005
+- name: CN_speednode_0002
   password: 80c9752a41
   port: 20443
   server: nat-hk-37465.strongpipe.cloud
