@@ -11,3 +11,10 @@ proxies:
   sni: apple.com
   type: hysteria
   up: 11 Mbps
+- cipher: aes-256-cfb
+  name: FR_speednode_0003
+  password: amazonskr05
+  port: 443
+  server: 13.38.71.74
+  type: ss
+  udp: true
