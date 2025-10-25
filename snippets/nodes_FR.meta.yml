@@ -11,6 +11,14 @@ proxies:
   sni: apple.com
   type: hysteria
   up: 11 Mbps
+- name: '@v2ray_configs_pool #19'
+  password: dongtaiwang.com
+  port: 5355
+  server: 51.159.111.32
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - cipher: aes-256-cfb
   name: FR_speednode_0001
   password: amazonskr05
