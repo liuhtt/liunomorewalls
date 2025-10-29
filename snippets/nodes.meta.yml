@@ -662,7 +662,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: telegram--MTMVPN10
+- name: '🇳🇱 - NL - @freeOnlineVPN #9'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -937,7 +937,7 @@ proxies:
   sni: hsels.huasuan666.top
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #2'
+- name: '@Daily_Configs #1'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
   server: xg1.mangshe.xyz
@@ -1062,7 +1062,7 @@ proxies:
   sni: YAPC-1.afshin.irr♡ya
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #9'
+- name: '🇳🇱 - NL - @freeOnlineVPN #10'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1072,7 +1072,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #10'
+- name: '🇳🇱 - NL - @freeOnlineVPN #11'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1082,17 +1082,17 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #3'
+- name: 'All-@IRAN_V2RAY1 #4'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 35000
   server: yapc-1.adamhayward.co.uk
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 'All-@IRAN_V2RAY1 #5'
+- name: '🇳🇱 - NL - @freeOnlineVPN #15'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1102,7 +1102,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 'MCI-@V2rayAlpha--3 #2'
+- name: '🇳🇱 - NL - @freeOnlineVPN #18'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1233,7 +1233,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #5'
+- name: '@Daily_Configs #3'
   password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1
   port: 30000
   server: de3.oomz.ru
