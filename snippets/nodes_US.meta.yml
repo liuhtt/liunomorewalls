@@ -27,7 +27,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: US_speednode_0006
+  name: 'US_speednode_0006 #1'
   port: 25599
   reality-opts:
     public-key: SsbeZ_JdMe3r2IqTESBWRSUMrcm3PdpFzlab5xrKUlU
@@ -38,6 +38,32 @@ proxies:
   type: vless
   udp: true
   uuid: ff06f97b-09f6-4b8b-8a12-7d2f51b28a75
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 'US_speednode_0008 #1'
+  port: 443
+  reality-opts:
+    public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
+  server: usa84.freednet.org
+  servername: www.utexas.edu
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: f2f5905b-e814-4a9f-beae-8b1353f25a06
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 'US_speednode_0009 #1'
+  port: 443
+  reality-opts:
+    public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
+  server: usa102.unlockspace.org
+  servername: www.utexas.edu
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5c9f0284-a8da-40f0-9bca-da9a98049fb0
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 美国CloudFla...
@@ -113,29 +139,3 @@ proxies:
   server: 54.90.226.121
   type: ss
   udp: true
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 'US_speednode_0008 #1'
-  port: 443
-  reality-opts:
-    public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
-  server: usa84.freednet.org
-  servername: www.utexas.edu
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: f2f5905b-e814-4a9f-beae-8b1353f25a06
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: US_speednode_0009
-  port: 443
-  reality-opts:
-    public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
-  server: usa102.unlockspace.org
-  servername: www.utexas.edu
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 5c9f0284-a8da-40f0-9bca-da9a98049fb0
