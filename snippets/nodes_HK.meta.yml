@@ -92,7 +92,7 @@ proxies:
     method: GET
     path:
     - /
-  name: HK_speednode_0061
+  name: HK_speednode_0003
   network: http
   port: 54804
   server: 43.247.135.64
