@@ -93,7 +93,7 @@ hysteria2://907d9a05-3bd2-4b44-b1f9-4f26dba76f88@141.147.52.24:44001?insecure=1#
 hysteria2://907d9a05-3bd2-4b44-b1f9-4f26dba76f88@85.208.9.189:44001?insecure=1&sni=www.bing.com#telegram--MTMVPN%2015%20%231
 hysteria2://9faf4015-b6c0-44f9-b9d6-d77454a50a72@els1.dimoyun.top:40001?insecure=1&sni=els1.dimoyun.top#All-%40V2rayAlpha--6%20%231%20%231
 hysteria2://MxiGoEDnLJELZicwCXwsADPdF4@43.201.45.216:29609?insecure=1&sni=bing.com#All-%40V2rayAlpha--2%20%231%20%231
-hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%232
+hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%235
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#telegram--MTMVPN%2021%20%231
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#telegram--MTMVPN10%20%231
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40IRAN_V2RAY1%20%234%20%231
@@ -182,5 +182,5 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.2:38388#VN_speednode_0027
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.43:38388#VN_speednode_0028
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.78:38388#VN_speednode_0029
-ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fzksuapgx%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
