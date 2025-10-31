@@ -1,11 +1,1 @@
-proxies:
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: RU_speednode_0004
-  port: 443
-  server: usa.savanet.pro
-  servername: yandex.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 87eff1bd-d55f-4df2-a5ad-863368a16cb7
+proxies: []

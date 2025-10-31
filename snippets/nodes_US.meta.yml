@@ -17,45 +17,6 @@ proxies:
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
-- client-fingerprint: chrome
-  name: CN_speednode_0003
-  network: tcp
-  password: BxceQaOe
-  port: 43567
-  server: 36.156.102.74
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: US_speednode_0006
-  port: 25599
-  server: 172.238.22.96
-  servername: www.cloudflare.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff06f97b-09f6-4b8b-8a12-7d2f51b28a75
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: US_speednode_0008
-  port: 443
-  server: usa84.freednet.org
-  servername: www.utexas.edu
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: f2f5905b-e814-4a9f-beae-8b1353f25a06
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: US_speednode_0009
-  port: 443
-  server: usa102.unlockspace.org
-  servername: www.utexas.edu
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 5c9f0284-a8da-40f0-9bca-da9a98049fb0
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 美国CloudFla...
