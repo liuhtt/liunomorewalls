@@ -20,7 +20,7 @@ proxies:
   type: trojan
   udp: true
 - client-fingerprint: chrome
-  name: '新加坡3|@ripaojiedian #1'
+  name: 新加坡3|@ripaojiedian
   network: tcp
   password: BxceQaOe
   port: 9713
