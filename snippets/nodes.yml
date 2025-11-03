@@ -785,7 +785,7 @@ proxies:
   server: 36.151.192.242
   skip-cert-verify: true
   type: trojan
-- name: HK_speednode_0009
+- name: HK_speednode_0004
   network: tcp
   password: BxceQaOe
   port: 443
@@ -810,7 +810,7 @@ proxies:
   server: 36.150.215.197
   skip-cert-verify: true
   type: trojan
-- name: CN_speednode_0003
+- name: 日本2|@ripaojiedian
   network: tcp
   password: bca467b8c15211d189008a93c7519d3b
   port: 1332
@@ -818,7 +818,6 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-  udp: true
 - name: 日本3|@ripaojiedian
   network: tcp
   password: bca467b8c15211d189008a93c7519d3b
@@ -827,7 +826,7 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: CN_speednode_0004
+- name: 新加坡2|@ripaojiedian
   network: tcp
   password: bca467b8c15211d189008a93c7519d3b
   port: 2283
@@ -835,7 +834,6 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-  udp: true
 - name: 新加坡3|@ripaojiedian
   network: tcp
   password: BxceQaOe
@@ -883,61 +881,3 @@ proxies:
   tls: false
   type: vmess
   uuid: de32752c-0661-467e-82d3-35bc740a787f
-- name: CN_speednode_0005
-  password: adbac894-90b9-4913-b77e-a715a8d4ebc8
-  port: 20021
-  server: oss-cn-shanghai.letssepub.com
-  skip-cert-verify: false
-  sni: dingding-doc.com
-  type: trojan
-  udp: true
-- alterId: 1
-  cipher: auto
-  name: JP_speednode_0019
-  port: 21581
-  server: tb012-g01.jp03-j7-vm0.entry.fr0528.art
-  servername: tb012-g01.jp03-j7-vm0.entry.fr0528.art
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 1a9f857f-9a07-3a8c-a155-f9ab3c457343
-- name: JP_speednode_0020
-  network: ws
-  password: trojan
-  port: 443
-  server: 103.116.7.1
-  skip-cert-verify: false
-  sni: wahaha.yingyangkuaixian.dpdns.org
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: wahaha.yingyangkuaixian.dpdns.org
-    path: /
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: US_speednode_0042
-  network: http
-  port: 32301
-  server: 104.168.94.41
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: a2235b72-fd9c-404f-be5a-53b2de0cb798
-- alterId: 1
-  cipher: auto
-  name: US_speednode_0045
-  port: 21583
-  server: 5tzjp-g03.jp01-nn-vm0.entry.fr0528.art
-  servername: 5tzjp-g03.jp01-nn-vm0.entry.fr0528.art
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 339cf625-ef70-3be4-8965-5a1e3f384d9f
