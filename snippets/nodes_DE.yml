@@ -1,1 +1,23 @@
-proxies: []
+proxies:
+- cipher: aes-256-cfb
+  name: DE_speednode_0003
+  password: amazonskr05
+  port: 443
+  server: 18.195.93.192
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: DE_speednode_0004
+  network: ws
+  port: 80
+  server: 77.37.33.108
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: d967ffca-de90-4daa-bd00-d527e5bae11f
+  ws-opts:
+    headers:
+      Host: google.whatsapp.snapp.torob.basalam.leoshopping77.ir.
+    path: /
