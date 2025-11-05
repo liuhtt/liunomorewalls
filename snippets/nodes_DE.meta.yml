@@ -6,35 +6,18 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #22'
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: dir.cybsecguru.com
-  skip-cert-verify: true
-  sni: jnir.pichondan.com
-  tls: false
-  type: hysteria2
-- cipher: aes-256-cfb
+- client-fingerprint: chrome
   name: DE_speednode_0003
-  password: amazonskr05
-  port: 443
-  server: 18.195.93.192
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: DE_speednode_0004
   network: ws
-  port: 80
-  server: 77.37.33.108
+  port: 2096
+  server: 5.10.214.253
+  servername: vless.muzheng.top
   skip-cert-verify: false
-  tls: false
-  type: vmess
+  tls: true
+  type: vless
   udp: true
-  uuid: d967ffca-de90-4daa-bd00-d527e5bae11f
+  uuid: 7556317c-dff6-46e8-ad29-b408f2a6456e
   ws-opts:
     headers:
-      Host: google.whatsapp.snapp.torob.basalam.leoshopping77.ir.
-    path: /
+      Host: vless.muzheng.top
+    path: /Telegram @freecodes /?ed=2560

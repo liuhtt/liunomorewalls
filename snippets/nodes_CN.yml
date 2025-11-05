@@ -13,3 +13,18 @@ proxies:
     headers:
       Host: data-us-v1.shwjfkw.cn
     path: /debian
+- cipher: chacha20-ietf-poly1305
+  name: CN_speednode_0001
+  password: 403c8b4f-05cc-4609-9ad5-a46cf84327b1
+  port: 23204
+  server: future.chenyi.pw
+  type: ss
+  udp: true
+- name: CN_speednode_0002
+  password: adbac894-90b9-4913-b77e-a715a8d4ebc8
+  port: 20021
+  server: oss-cn-shanghai.letssepub.com
+  skip-cert-verify: false
+  sni: dingding-doc.com
+  type: trojan
+  udp: true
