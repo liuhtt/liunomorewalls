@@ -95,9 +95,16 @@ proxies:
   sni: t.me%2Fripaojiedian
   type: trojan
 - cipher: aes-256-cfb
-  name: US_speednode_0009
+  name: US_speednode_0019
   password: amazonskr05
   port: 443
-  server: 13.59.110.241
+  server: 16.52.152.103
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: US_speednode_0020
+  password: amazonskr05
+  port: 443
+  server: 3.147.64.175
   type: ss
   udp: true
