@@ -52,7 +52,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiR2l0aHVi5pCc57SiVHJvamFuTGlua3MgIzQwIiwgImFkZCI6
 vmess://eyJ2IjogIjIiLCAicHMiOiAiR2l0aHVi5pCc57SiVHJvamFuTGlua3MgIzQxIiwgImFkZCI6ICIxMTIuMTMyLjIxNS4zNCIsICJwb3J0IjogIjUwMDA3IiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiR2l0aHVi5pCc57SiVHJvamFuTGlua3MgIzQyIiwgImFkZCI6ICIxMDMuMjU0LjE1Mi44MiIsICJwb3J0IjogIjMwMDEwIiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJob3N0IjogInd3dy40Nzg3NjIwMi54eXoiLCAicGF0aCI6ICIvcGF0aC8xOTEwMTkwNzI5MjcifQ==
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%232
-hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#%40NoForcedheaven
 hysteria2://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:29662?insecure=0&sni=chervhill.hajalii.com&obfs=salamander&obfs-password=xFGh9dsyreJV9sMs1RUnFbwRdon#%40Mr_Config_Group%E2%9C%8C%EF%B8%8F
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%40V2rayNG3
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?insecure=0&sni=gb.gomeow.online#%40V2rayNG3%20%231
