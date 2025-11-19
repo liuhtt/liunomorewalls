@@ -36,7 +36,7 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 香港4|@ripaojiedian
+- name: HK_speednode_0012
   network: tcp
   password: BxceQaOe
   port: 443
@@ -44,6 +44,7 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
+  udp: true
 - name: 香港5|@ripaojiedian
   network: tcp
   password: BxceQaOe
@@ -58,3 +59,46 @@ proxies:
   port: 8388
   server: 103.149.183.191
   type: ss
+- cipher: chacha20-ietf-poly1305
+  name: HK_speednode_0007
+  password: aa5dbc25-0377-4e1d-8b81-bec6cf9ecff5
+  port: 10012
+  server: 154.16.10.201
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: HK_speednode_0008
+  password: 3079fa79-fb20-45a6-8e42-cb332a8e26b1
+  port: 10012
+  server: 154.16.10.201
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: HK_speednode_0009
+  password: 8bd43408-d561-4bf7-b5fb-152acaa8fe34
+  port: 10012
+  server: 154.16.10.201
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: HK_speednode_0010
+  password: 6ee5a5d3-c2c8-4549-b09d-7a9e90f607e2
+  port: 10012
+  server: 154.16.10.201
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: HK_speednode_0011
+  password: 715ed7ef-db8d-4e21-94d6-e0fc14e3ce18
+  port: 10012
+  server: 154.16.10.201
+  type: ss
+  udp: true
+- name: HK_speednode_0013
+  password: BxceQaOe
+  port: 443
+  server: 58.152.26.173
+  skip-cert-verify: true
+  sni: t.me/ripaojiedian
+  type: trojan
+  udp: true
