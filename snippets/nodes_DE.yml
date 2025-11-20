@@ -1,8 +1,1 @@
-proxies:
-- cipher: aes-256-cfb
-  name: DE_speednode_0002
-  password: amazonskr05
-  port: 443
-  server: 18.199.91.56
-  type: ss
-  udp: true
+proxies: []
