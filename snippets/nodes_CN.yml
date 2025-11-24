@@ -13,13 +13,3 @@ proxies:
     headers:
       Host: data-us-v1.shwjfkw.cn
     path: /debian
-- alterId: 0
-  cipher: auto
-  name: CN_speednode_0002
-  port: 3304
-  server: 113.57.36.148
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: f0305e21-30bb-32f9-9b1b-9e02dcf3af54
