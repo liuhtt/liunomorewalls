@@ -640,14 +640,6 @@ proxies:
   sni: glby1.nezhasu.com
   tls: false
   type: hysteria2
-- name: telegram @mtmvpn 🗽
-  password: 2b195c17-5ff5-4b0d-a809-210b92212394
-  port: 443
-  server: lundun1.nezhasu.com
-  skip-cert-verify: true
-  sni: lundun1.nezhasu.com
-  tls: false
-  type: hysteria2
 - name: MCI-IR--@V2rayAlpha-1
   password: 2b195c17-5ff5-4b0d-a809-210b92212394
   port: 443
@@ -748,7 +740,7 @@ proxies:
   sni: us11.588878.xyz
   tls: false
   type: hysteria2
-- name: 🇸🇪 - SE - @freeOnlineVPN
+- name: 🔒51@oneclickvpnkeys
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
   password: 77238c49bd20e407f05e0c073ad08fdb
@@ -795,7 +787,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #7'
+- name: '🇳🇱 - NL - @freeOnlineVPN #9'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -832,7 +824,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #9'
+- name: '🇳🇱 - NL - @freeOnlineVPN #11'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -842,7 +834,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #10'
+- name: '🇳🇱 - NL - @freeOnlineVPN #12'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -852,7 +844,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #3'
+- name: '🇩🇪 - DE - @freeOnlineVPN #5'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -862,7 +854,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #1'
+- name: '🇩🇪 - DE - @freeOnlineVPN #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -889,7 +881,7 @@ proxies:
   server: my.xn--gmq00sc0nuve.shop
   tls: false
   type: hysteria2
-- name: '🏴‍☠️@FreakConfig #1'
+- name: 🏴‍☠️@FreakConfig
   password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
   port: 21105
   server: tr.xn--gmq00sc0nuve.shop
@@ -1112,6 +1104,14 @@ proxies:
   server: gy6.nezhasu.com
   skip-cert-verify: true
   sni: gy6.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: telegram @mtmvpn 🗽
+  password: 2b195c17-5ff5-4b0d-a809-210b92212394
+  port: 443
+  server: lundun1.nezhasu.com
+  skip-cert-verify: true
+  sni: lundun1.nezhasu.com
   tls: false
   type: hysteria2
 - name: All-@V2ray_Alpha--2
@@ -1648,7 +1648,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #8'
+- name: '🇩🇪 - DE - @freeOnlineVPN #3'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: EKLeRwhlYy
@@ -1833,7 +1833,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: 🏴‍☠️@FreakConfig
+- name: '🇳🇱 - NL - @freeOnlineVPN #7'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1843,7 +1843,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 'All--@IRAN_V2RAY1 #3'
+- name: '🇳🇱 - NL - @freeOnlineVPN #8'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1853,7 +1853,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #8'
+- name: '🇳🇱 - NL - @freeOnlineVPN #10'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1916,7 +1916,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #11'
+- name: '🇳🇱 - NL - @freeOnlineVPN #13'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
