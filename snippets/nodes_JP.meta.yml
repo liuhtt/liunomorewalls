@@ -1,12 +1,4 @@
 proxies:
-- name: 👉🆔 @v2ray_configs_pool 📡 🇯🇵JP ...
-  password: 79d73809-f5ed-4099-8588-ba77578def1d
-  port: 35789
-  server: iij.mggl.wang
-  skip-cert-verify: true
-  sni: iij.mggl.wang
-  tls: false
-  type: hysteria2
 - name: 日本|@ripaojiedian
   network: tcp
   password: BxceQaOe

@@ -615,14 +615,6 @@ proxies:
   sni: psbank.ru
   tls: false
   type: hysteria2
-- name: '👉🆔 @v2ray_configs_pool 📡 🇷🇺RU ... #79'
-  password: SNItest
-  port: 443
-  server: 46.243.232.105
-  skip-cert-verify: true
-  sni: raiffeisen.ru
-  tls: false
-  type: hysteria2
 - name: '👉🆔 @v2ray_configs_pool 📡 🇷🇺RU ... #80'
   password: SNItest
   port: 443
@@ -789,14 +781,6 @@ proxies:
   server: 46.243.235.119
   skip-cert-verify: true
   sni: dzen.ru
-  tls: false
-  type: hysteria2
-- name: '👉🆔 @v2ray_configs_pool 📡 🇷🇺RU ... #101'
-  password: SNItest
-  port: 443
-  server: 46.243.235.119
-  skip-cert-verify: true
-  sni: gazprombank.ru
   tls: false
   type: hysteria2
 - name: '👉🆔 @v2ray_configs_pool 📡 🇷🇺RU ... #102'

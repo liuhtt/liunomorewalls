@@ -1,12 +1,4 @@
 proxies:
-- name: 👉🆔 @v2ray_configs_pool 📡 🇭🇰HK ...
-  password: ae845cbd-08fb-4346-929a-e28a6f3960a8
-  port: 24591
-  server: hk1.shiyuandian.shop
-  skip-cert-verify: true
-  sni: hk1.shiyuandian.shop
-  tls: false
-  type: hysteria2
 - alterId: 2
   cipher: auto
   name: 🇭🇰 香港|@ripaojiedian
