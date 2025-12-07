@@ -13,43 +13,11 @@ proxies:
     headers:
       Host: data-us-v1.shwjfkw.cn
     path: /debian
-- name: CN_speednode_0003
-  password: 13eb9352-7d04-4523-af91-4d7e84066a95
-  port: 12210
-  server: oss-ydniddsasa-3.7.baidu.jjuu.shrestart.com
-  skip-cert-verify: true
-  sni: m.ctrip.com
-  type: trojan
-  udp: true
-- name: CN_speednode_0004
-  password: 13eb9352-7d04-4523-af91-4d7e84066a95
-  port: 12205
-  server: oss-ydniddsasa-3.7.baidu.jjuu.shrestart.com
-  skip-cert-verify: true
-  sni: m.ctrip.com
-  type: trojan
-  udp: true
-- name: CN_speednode_0005
-  password: 13eb9352-7d04-4523-af91-4d7e84066a95
-  port: 12206
-  server: oss-ydniddsasa-3.7.baidu.jjuu.shrestart.com
-  skip-cert-verify: true
-  sni: m.ctrip.com
-  type: trojan
-  udp: true
-- name: CN_speednode_0006
-  password: 13eb9352-7d04-4523-af91-4d7e84066a95
-  port: 12208
-  server: oss-ydniddsasa-3.7.baidu.jjuu.shrestart.com
-  skip-cert-verify: true
-  sni: m.ctrip.com
-  type: trojan
-  udp: true
 - alterId: 0
   cipher: auto
-  name: CN_speednode_0007
+  name: CN_speednode_0003
   network: ws
-  port: 41319
+  port: 41320
   server: xiaoliyu4624.v.jsqcdn.bid
   skip-cert-verify: true
   tls: false

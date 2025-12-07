@@ -1,8 +1,8 @@
 proxies:
-- cipher: aes-256-cfb
-  name: RU_speednode_0016
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 38.60.223.8
+- cipher: chacha20-ietf-poly1305
+  name: RU_speednode_0022
+  password: '!!str 907560230'
+  port: 17844
+  server: clr.ducks.tel
   type: ss
   udp: true

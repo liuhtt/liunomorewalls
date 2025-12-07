@@ -5,3 +5,21 @@ proxies:
   port: 4652
   server: 218.237.185.230
   type: ss
+- alterId: 0
+  cipher: auto
+  http-opts:
+    headers:
+      Host:
+      - 152.70.92.69
+    method: GET
+    path:
+    - /
+  name: KR_speednode_0017
+  network: http
+  port: 80
+  server: 152.70.92.69
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: bb9c3993-a4b9-4dad-aeb9-ac86371ae68b
