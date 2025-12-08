@@ -1,8 +1,1 @@
-proxies:
-- cipher: chacha20-ietf-poly1305
-  name: RU_speednode_0022
-  password: '!!str 907560230'
-  port: 17844
-  server: clr.ducks.tel
-  type: ss
-  udp: true
+proxies: []

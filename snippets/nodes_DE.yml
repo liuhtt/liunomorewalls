@@ -1,8 +1,1 @@
-proxies:
-- cipher: chacha20-ietf-poly1305
-  name: DE_speednode_0005
-  password: eSy8mU16aotgDX4uxsQd4e
-  port: 7048
-  server: 62.133.60.60
-  type: ss
-  udp: true
+proxies: []
