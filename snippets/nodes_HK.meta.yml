@@ -127,3 +127,15 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+- alterId: 2
+  cipher: auto
+  name: HK_speednode_0006
+  network: ws
+  port: 80
+  server: 73d73acd-sv2sg0-t7bo2t-1psmw.hk3.p5pv.com
+  servername: broadcastlv.chat.bilibili.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 42bb6d36-97c7-11ee-be7f-f23c9164ca5d
