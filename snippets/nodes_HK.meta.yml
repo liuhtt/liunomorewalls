@@ -70,7 +70,7 @@ proxies:
   port: 443
   server: 103.103.245.158
   type: ss
-- name: 香港3|@ripaojiedian
+- name: HK_speednode_0004
   network: tcp
   password: 76d630f2af6619c4a5de0ef953df3c6a
   port: 443
@@ -78,6 +78,7 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
+  udp: true
 - name: 香港4|@ripaojiedian
   network: tcp
   password: BxceQaOe
@@ -129,13 +130,13 @@ proxies:
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - alterId: 2
   cipher: auto
-  name: HK_speednode_0006
+  name: HK_speednode_0003
   network: ws
   port: 80
-  server: 73d73acd-sv2sg0-t7bo2t-1psmw.hk3.p5pv.com
+  server: 6b961a0a-sv4n40-t83wtx-2rrb.hk3.p5pv.com
   servername: broadcastlv.chat.bilibili.com
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
-  uuid: 42bb6d36-97c7-11ee-be7f-f23c9164ca5d
+  uuid: ba64cdc5-c79a-326d-8e63-6903be8183a1
