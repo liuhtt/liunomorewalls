@@ -55,7 +55,7 @@ proxies:
   sni: xjp1.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '新加坡 #2'
+- name: 'All-@V2ray_Alpha--4 #1'
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2060
   server: xjp2.mangshe.xyz
@@ -138,7 +138,7 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: SG_speednode_0042
+- name: SG_speednode_0010
   port: 10808
   server: 213.35.126.34
   type: socks5
