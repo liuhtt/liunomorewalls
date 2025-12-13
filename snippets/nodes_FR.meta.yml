@@ -1,4 +1,16 @@
 proxies:
+- alpn:
+  - h3
+  auth-str: dongtaiwang.com
+  down: 55 Mbps
+  name: France_None_hysteria_71
+  port: 50011
+  protocol: udp
+  server: 62.210.10.186
+  skip-cert-verify: true
+  sni: apple.com
+  type: hysteria
+  up: 11 Mbps
 - name: 法兰克福
   password: 16461a78-363c-457a-92f9-83b0a68edc37
   port: 2056
