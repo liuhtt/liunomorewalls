@@ -1,1 +1,8 @@
-proxies: []
+proxies:
+- cipher: chacha20-ietf-poly1305
+  name: GB_speednode_0003
+  password: Kmn7dHPw5wNfkqQMPcGWQA
+  port: 28212
+  server: 31.3.209.183
+  type: ss
+  udp: true
