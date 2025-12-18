@@ -1,8 +1,1 @@
-proxies:
-- cipher: chacha20-ietf-poly1305
-  name: RU_speednode_0017
-  password: cPzFh2p9MWXvVYWs5hX55e5BZFty7ke-
-  port: 1234
-  server: 91.221.37.30
-  type: ss
-  udp: true
+proxies: []
