@@ -177,69 +177,31 @@ proxies:
   port: 990
   server: 173.234.29.2
   type: ss
-- alterId: 0
-  cipher: auto
-  name: US_speednode_0027
-  port: 14102
-  server: 172.233.229.91
-  skip-cert-verify: true
-  tls: false
-  type: vmess
+- cipher: aes-128-gcm
+  name: US_speednode_0015
+  password: shadowsocks
+  port: 443
+  server: 156.146.38.167
+  type: ss
   udp: true
-  uuid: 27ba87fc-583f-4763-9060-83cf0b9264db
-- name: US_speednode_0028
-  network: ws
-  port: 8080
-  server: 104.21.15.212
-  servername: 201.58vtg99l.workers.dev
-  skip-cert-verify: false
-  tls: false
-  type: vless
+- cipher: aes-128-gcm
+  name: US_speednode_0016
+  password: shadowsocks
+  port: 443
+  server: 156.146.38.169
+  type: ss
   udp: true
-  uuid: 4c9541c7-5fa1-403c-84af-175e3b25a27f
-  ws-opts:
-    headers:
-      Host: 201.58vtg99l.workers.dev
-    path: /
-- name: US_speednode_0029
-  network: ws
-  port: 8880
-  server: Www.speedtest.net
-  servername: mx.mmadvip8563.ir
-  skip-cert-verify: false
-  tls: false
-  type: vless
+- cipher: aes-128-gcm
+  name: US_speednode_0017
+  password: shadowsocks
+  port: 443
+  server: 156.146.38.170
+  type: ss
   udp: true
-  uuid: 6072c15c-99db-4880-99d0-1448a8d43da7
-  ws-opts:
-    headers:
-      Host: mx.mmadvip8563.ir
-    path: /?ed=2048
-- name: US_speednode_0030
-  network: ws
-  port: 8880
-  server: Www.speedtest.net
-  servername: mx.mmadvip8563.ir
-  skip-cert-verify: false
-  tls: false
-  type: vless
+- cipher: chacha20-ietf-poly1305
+  name: US_speednode_0018
+  password: SS2QvbC9nqLp2sXXZo0BVy4slcErRuCt
+  port: 443
+  server: 103.35.189.136
+  type: ss
   udp: true
-  uuid: 49aefaed-ad06-4ce9-ad25-b75b6b489b0c
-  ws-opts:
-    headers:
-      Host: mx.mmadvip8563.ir
-    path: /?ed=2048
-- name: US_speednode_0031
-  network: ws
-  port: 80
-  server: 172.67.176.159
-  servername: 3.azadteam.workers.dev
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: 41398380-2073-4d85-878a-24194a6f04a3
-  ws-opts:
-    headers:
-      Host: 3.azadteam.workers.dev
-    path: /Sy0HOf5sZffep0QQ?ed=2560
