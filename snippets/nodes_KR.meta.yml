@@ -13,29 +13,7 @@ proxies:
   port: 22376
   server: 125.141.31.75
   type: ss
-- cipher: aes-256-cfb
-  name: KR_speednode_0012
-  password: qwerREWQ@@
-  port: 50411
-  server: 210.217.18.69
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: KR_speednode_0013
-  password: qwerREWQ@@
-  port: 59594
-  server: 221.150.109.20
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: KR_speednode_0014
-  password: qwerREWQ@@
-  port: 56359
-  server: 203.234.238.140
-  type: ss
-  udp: true
-- client-fingerprint: chrome
-  name: KR_speednode_0015
+- name: KR_speednode_0008
   network: ws
   port: 8443
   server: 59.3.3.161
