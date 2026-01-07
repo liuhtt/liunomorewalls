@@ -41,6 +41,12 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
+- cipher: chacha20-ietf-poly1305
+  name: 🇭🇰 香港6|@ripaojiedian
+  password: sxnCPKb70DGRo62-goXFVHrjzF-5oMbD
+  port: 33007
+  server: 103.109.23.165
+  type: ss
 - alterId: 2
   cipher: auto
   name: 香港|@ripaojiedian
@@ -61,3 +67,18 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+- alterId: 0
+  cipher: auto
+  http-opts:
+    method: GET
+    path:
+    - /
+  name: HK_speednode_0004
+  network: http
+  port: 43307
+  server: 8.210.248.133
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: f6a1f4ad-9d26-43c7-bce3-025df8dac591
