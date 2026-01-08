@@ -67,7 +67,7 @@ proxies:
     method: GET
     path:
     - /使用此节点需要先沐浴焚香然后给群主磕800个响头(ಡωಡ)
-  name: HK_speednode_0007
+  name: HK_speednode_0004
   network: http
   port: 53947
   server: 156.245.232.15
