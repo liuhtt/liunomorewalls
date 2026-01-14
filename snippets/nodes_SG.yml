@@ -24,8 +24,9 @@ proxies:
   sni: t.me%252Fripaojiedian
   type: trojan
 - cipher: aes-128-gcm
-  name: 🇸🇬 新加坡4|@ripaojiedian
+  name: CN_speednode_0007
   password: b637f2e47b7827b308ebf399008075d2
   port: 25819
   server: 223.95.183.132
   type: ss
+  udp: true
