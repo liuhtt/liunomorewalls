@@ -67,32 +67,12 @@ proxies:
     headers:
       Host: server32.beheshtbaneh.com
     path: /
-- name: 🇺🇸 美国|@ripaojiedian
-  password: 4843e94d205f3893f588255a591abe94
-  port: 5076
-  server: 153.121.38.213
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 🇺🇸 美国2|@ripaojiedian
-  password: 4843e94d205f3893f588255a591abe94
-  port: 5076
-  server: 23.170.49.110
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 🇺🇸 美国3|@ripaojiedian
-  password: BxceQaOe
-  port: 2773
-  server: 13.114.104.131
-  skip-cert-verify: true
-  sni: t.me%2Fripaojiedian
-  type: trojan
 - name: 美国|@ripaojiedian
   network: tcp
   password: 4843e94d205f3893f588255a591abe94
   port: 5076
   server: 153.121.39.240
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 美国2|@ripaojiedian
@@ -100,6 +80,7 @@ proxies:
   password: 4843e94d205f3893f588255a591abe94
   port: 5076
   server: 160.16.57.238
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 美国3|@ripaojiedian
@@ -110,22 +91,3 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- cipher: chacha20-ietf-poly1305
-  name: US_speednode_0026
-  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
-  plugin: obfs
-  plugin-opts:
-    host: e7b7ab7:102816
-    mode: tls
-    tls: false
-  port: 2377
-  server: 95.174.71.98
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  name: US_speednode_0030
-  password: shadowsocks
-  port: 443
-  server: 37.19.198.236
-  type: ss
-  udp: true
