@@ -13,23 +13,3 @@ proxies:
     headers:
       Host: data-us-v1.shwjfkw.cn
     path: /debian
-- alterId: 0
-  cipher: auto
-  name: CN_speednode_0001
-  port: 47081
-  server: oss-4.qqa678.com
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 7d3b2ea8-337b-4979-948f-bc1c1e72b6d5
-- alterId: 0
-  cipher: auto
-  name: CN_speednode_0002
-  port: 47081
-  server: tunnel2.qqa678.com
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 940962e9-85c7-43fa-a9ca-d523b15a32a5
