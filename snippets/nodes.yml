@@ -859,238 +859,27 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: CN_speednode_0001
-  password: 2f0e3d6c-87b2-49a6-8091-99373bf39ab5
-  port: 59009
-  server: mofahx2.til69.com
-  skip-cert-verify: true
-  sni: v1-dy.ixigua.com
-  type: trojan
-  udp: true
-- name: CN_speednode_0002
-  password: 2f0e3d6c-87b2-49a6-8091-99373bf39ab5
-  port: 19797
-  server: mofahx2.til69.com
-  skip-cert-verify: true
-  sni: v1-dy.ixigua.com
-  type: trojan
-  udp: true
-- name: CN_speednode_0003
-  password: 2f0e3d6c-87b2-49a6-8091-99373bf39ab5
-  port: 40391
-  server: mofahx2.til69.com
-  skip-cert-verify: true
-  sni: v1-dy.ixigua.com
-  type: trojan
-  udp: true
-- name: CN_speednode_0004
-  password: 2f0e3d6c-87b2-49a6-8091-99373bf39ab5
-  port: 33243
-  server: mofahx2.til69.com
-  skip-cert-verify: true
-  sni: v1-dy.ixigua.com
-  type: trojan
-  udp: true
 - alterId: 0
   cipher: auto
-  name: CN_speednode_0005
-  port: 47083
-  server: tunnel2.qqa678.com
+  name: CN_speednode_0002
+  port: 47081
+  server: oss-4.qqa678.com
   skip-cert-verify: false
   tls: false
   type: vmess
   udp: true
-  uuid: 2ab2ff5b-9684-4150-bec0-6bd036ae7c26
-- cipher: chacha20-ietf-poly1305
-  name: CN_speednode_0006
-  password: 5d68d91f-ccc5-4c00-b1f6-0d764937f4f6
-  port: 39841
-  server: mofacpdd.til69.com
+  uuid: 9f8c122d-5b86-4c19-af87-64f458a88223
+- cipher: chacha20-ietf
+  name: SG_speednode_0014
+  password: asd123456
+  port: 8388
+  server: 103.36.91.32
   type: ss
   udp: true
 - cipher: aes-256-cfb
-  name: FR_speednode_0009
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 51.15.23.63
+  name: VN_speednode_0043
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  port: 38388
+  server: 103.186.155.3
   type: ss
   udp: true
-- name: GB_speednode_0010
-  network: ws
-  password: 42bbf526-5530-470a-aeec-3b919b21c58d
-  port: 31687
-  server: 185.245.83.41
-  skip-cert-verify: true
-  sni: 0000.hkvip.ip-ddns.com
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: 0000.hkvip.ip-ddns.com
-    path: /?ed=2560
-- cipher: chacha20-ietf-poly1305
-  name: IL_speednode_0011
-  password: YZfUL9ixJ_Hl86vKK41CWg
-  port: 443
-  server: 185.241.5.151
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /x
-  name: KR_speednode_0012
-  network: http
-  port: 52967
-  server: 49.128.219.117
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 1e76907e-6dc3-4127-b17c-a57b417ff579
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /x
-  name: KR_speednode_0013
-  network: http
-  port: 52838
-  server: 49.128.219.75
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 77bc10e1-65b0-443c-8a6d-e0a08506e056
-- name: NL_speednode_0016
-  network: ws
-  password: 42bbf526-5530-470a-aeec-3b919b21c58d
-  port: 443
-  server: 163.5.207.235
-  skip-cert-verify: true
-  sni: 0000.hkvip.ip-ddns.com
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: 0000.hkvip.ip-ddns.com
-    path: /?ed=2560
-- name: NL_speednode_0017
-  network: ws
-  password: 42bbf526-5530-470a-aeec-3b919b21c58d
-  port: 443
-  server: 163.5.207.31
-  skip-cert-verify: true
-  sni: 0000.hkvip.ip-ddns.com
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: 0000.hkvip.ip-ddns.com
-    path: /?ed=2560
-- name: NL_speednode_0018
-  network: ws
-  password: 42bbf526-5530-470a-aeec-3b919b21c58d
-  port: 444
-  server: 2.59.183.233
-  skip-cert-verify: true
-  sni: 0000.hkvip.ip-ddns.com
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: 0000.hkvip.ip-ddns.com
-    path: /?ed=2560
-- name: PL_speednode_0019
-  network: ws
-  password: 42bbf526-5530-470a-aeec-3b919b21c58d
-  port: 2053
-  server: 31.133.0.167
-  skip-cert-verify: true
-  sni: 0000.hkvip.ip-ddns.com
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: 0000.hkvip.ip-ddns.com
-    path: /?ed=2560
-- name: TR_speednode_0021
-  network: ws
-  password: 42bbf526-5530-470a-aeec-3b919b21c58d
-  port: 443
-  server: 45.89.52.247
-  skip-cert-verify: true
-  sni: 0000.hkvip.ip-ddns.com
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: 0000.hkvip.ip-ddns.com
-    path: /?ed=2560
-- alterId: 0
-  cipher: auto
-  name: US_speednode_0024
-  port: 33651
-  server: 23.27.28.125
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 2ef740c4-08ed-4924-a8d8-7517fc987a8a
-- alterId: 0
-  cipher: auto
-  http-opts:
-    method: GET
-    path:
-    - /
-  name: US_speednode_0028
-  network: http
-  port: 14032
-  server: 155.254.20.102
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: ecdd9300-5c08-4e76-d7dd-c41ea03f1ec7
-- name: US_speednode_0034
-  network: ws
-  password: 2238e2f3-1a01-485e-8c22-24b65764c68b
-  port: 443
-  server: 208.103.161.231
-  skip-cert-verify: true
-  sni: gzjx.dpdns.org
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: gzjx.dpdns.org
-    path: /51.91.253.83=8443
-- name: US_speednode_0054
-  network: ws
-  password: 42bbf526-5530-470a-aeec-3b919b21c58d
-  port: 8443
-  server: 176.105.253.102
-  skip-cert-verify: true
-  sni: 0000.hkvip.ip-ddns.com
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: 0000.hkvip.ip-ddns.com
-    path: /?ed=2560
-- name: US_speednode_0057
-  network: ws
-  password: 42bbf526-5530-470a-aeec-3b919b21c58d
-  port: 54443
-  server: 173.249.201.109
-  skip-cert-verify: true
-  sni: 0000.hkvip.ip-ddns.com
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: 0000.hkvip.ip-ddns.com
-    path: /?ed=2560
