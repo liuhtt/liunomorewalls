@@ -91,10 +91,10 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- cipher: aes-128-gcm
-  name: US_speednode_0037
-  password: shadowsocks
+- cipher: aes-256-cfb
+  name: US_speednode_0032
+  password: amazonskr05
   port: 443
-  server: 37.19.198.236
+  server: 13.217.198.211
   type: ss
   udp: true
