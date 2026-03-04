@@ -608,7 +608,7 @@ proxies:
     headers:
       Host: www.47876202.xyz
     path: /path/191019072927
-- name: ⚡Telegram = @SOSkeyNET
+- name: '@Trick_mobil'
   password: 0b8a288c
   port: 65160
   server: 107.174.181.241
