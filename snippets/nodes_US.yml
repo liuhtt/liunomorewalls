@@ -91,11 +91,11 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: US_speednode_0019
+- name: US_speednode_0028
   network: ws
   password: trojan
-  port: 8025
-  server: 54.46.72.234
+  port: 7071
+  server: 154.17.234.78
   skip-cert-verify: true
   sni: jflsjlaf.pages.dev
   type: trojan
@@ -104,16 +104,27 @@ proxies:
     headers:
       Host: jflsjlaf.pages.dev
     path: /
-- name: US_speednode_0026
-  network: ws
-  password: trojan
-  port: 28080
-  server: 38.83.41.89
-  skip-cert-verify: true
-  sni: jflsjlaf.pages.dev
-  type: trojan
+- cipher: chacha20-ietf-poly1305
+  name: US_speednode_0033
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  plugin: obfs
+  plugin-opts:
+    host: 817aa69.default.nintendo.com:112719
+    mode: tls
+    tls: false
+  port: 2377
+  server: 134.195.101.125
+  type: ss
   udp: true
-  ws-opts:
-    headers:
-      Host: jflsjlaf.pages.dev
-    path: /
+- cipher: chacha20-ietf-poly1305
+  name: US_speednode_0034
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  plugin: obfs
+  plugin-opts:
+    host: 817aa69.default.nintendo.com:112719
+    mode: tls
+    tls: false
+  port: 2377
+  server: 134.195.101.127
+  type: ss
+  udp: true
