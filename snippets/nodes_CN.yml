@@ -13,3 +13,10 @@ proxies:
     headers:
       Host: data-us-v1.shwjfkw.cn
     path: /debian
+- cipher: chacha20-ietf-poly1305
+  name: CN_speednode_0003
+  password: 5d522fb6-4c75-44b3-a1ec-bfd5794ec503
+  port: 45510
+  server: sgp05.network-cdn-gw-yd.net
+  type: ss
+  udp: true
