@@ -608,6 +608,14 @@ proxies:
     headers:
       Host: www.47876202.xyz
     path: /path/191019072927
+- name: 🦔93@oneclickvpnkeys
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  skip-cert-verify: true
+  sni: dash.cloudflare.com
+  tls: false
+  type: hysteria2
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 印度  2
