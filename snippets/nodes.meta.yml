@@ -616,6 +616,14 @@ proxies:
   sni: flkf.mangshe.xyz
   tls: false
   type: hysteria2
+- name: 'telegram: @hupivpn'
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  skip-cert-verify: true
+  sni: dash.cloudflare.com
+  tls: false
+  type: hysteria2
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 印度  2
