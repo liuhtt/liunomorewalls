@@ -608,7 +608,7 @@ proxies:
     headers:
       Host: www.47876202.xyz
     path: /path/191019072927
-- name: v2rayRoom
+- name: ترکیبی | @vpnbaz
   password: DBUklcvOyH
   port: 443
   server: 45.81.19.251
