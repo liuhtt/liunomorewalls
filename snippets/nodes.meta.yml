@@ -608,6 +608,16 @@ proxies:
     headers:
       Host: www.47876202.xyz
     path: /path/191019072927
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: '[@saministamm]-🚩P24'
+  password: DBUklcvOyH
+  port: 443
+  server: 45.81.19.251
+  sni: web.bale.ai
+  tls: false
+  type: hysteria2
 - name: 🔵 @Pirimod_org | تلگراممون 🔵
   password: DBUklcvOyH
   port: 443
