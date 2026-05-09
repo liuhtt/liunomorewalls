@@ -646,16 +646,6 @@ proxies:
   sni: srm.kishonline.online
   tls: false
   type: hysteria2
-- name: '@filembad'
-  obfs: salamander
-  obfs-password: kish-data-center
-  password: vFy042zmin
-  port: 443
-  server: srm.kishonline.online
-  skip-cert-verify: false
-  sni: srm.kishonline.online
-  tls: false
-  type: hysteria2
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 印度  2
