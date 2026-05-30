@@ -608,16 +608,6 @@ proxies:
     headers:
       Host: www.47876202.xyz
     path: /path/191019072927
-- name: 🌝44@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: welovegod
-  password: BMmGlfFVF7
-  port: 46425
-  server: speedtest.mozit.site
-  skip-cert-verify: true
-  sni: mci.ir
-  tls: false
-  type: hysteria2
 - name: '@KAFING_2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -638,7 +628,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '@filembad'
+- name: '@hi_proxy_iran :👈کانال تلگرام'
   password: bce6c821-200d-421f-bf3d-7159e5246ea0
   port: 33333
   server: hy2.123266.xyz
