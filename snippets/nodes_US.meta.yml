@@ -7,6 +7,34 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  - http/1.1
+  - h2
+  fingerprint: chrome
+  name: '@GozargahAzad|🇺🇸'
+  obfs: salamander
+  obfs-password: dlxmzvxvcp3i6v0e
+  password: 5z15av99psrlhdqp
+  port: 39150
+  server: 32.195.51.20
+  sni: ''
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  - http/1.1
+  - h2
+  fingerprint: chrome
+  name: 🇺🇸59409 | ⚡️Telegram = t.me/SO...
+  obfs: salamander
+  obfs-password: dlxmzvxvcp3i6v0e
+  password: 5z15av99psrlhdqp
+  port: 39150
+  server: 32.195.51.20
+  sni: 32.195.51.20
+  tls: false
+  type: hysteria2
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 美国CloudFla...
