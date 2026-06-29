@@ -17,6 +17,16 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 2🇩🇪آلمان اوشاخلاری 🇩🇪
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: t-me-V2RayyNGvpn
+  port: 443
+  server: 143.14.59.229
+  skip-cert-verify: true
+  sni: www.oracle.com
+  tls: false
+  type: hysteria2
 - cipher: chacha20-ietf-poly1305
   name: DE_speednode_0003
   password: 453u6Gcei04NyXbrWLKa0M
